@@ -10,13 +10,14 @@ By graduation, I want to be able to say:
 
 ## Main engineering stack
 
-- **Problem solving:** C++
-- **Backend:** TypeScript, Node.js, Express/NestJS
-- **Frontend:** React
+- **Problem solving and interviews:** C++
+- **Primary development:** TypeScript
+- **Backend:** Node.js, Express first, then NestJS
+- **Frontend:** React, then optionally Next.js
 - **Database:** PostgreSQL
-- **Tools:** Git, GitHub, Linux, Bash, Docker, CI/CD
-- **Foundations:** DSA, OOP, DBMS, OS, networks, software engineering
-- **Later:** system design, cloud fundamentals, Redis, queues, observability
+- **AI and research:** Python
+- **Tools:** Git, GitHub, Linux, Bash, Docker, GitHub Actions
+- **Later:** Redis, system design, one cloud platform, queues, observability
 
 ## Mathematics path
 
@@ -35,17 +36,18 @@ By graduation, I want to be able to say:
 3. [DSA and Codeforces track](roadmap/dsa-codeforces.md)
 4. [Projects](roadmap/projects.md)
 5. [Interview and career preparation](roadmap/interview-career.md)
+6. [MAANG skill pillars and recommended language stack](roadmap/maang-skill-stack.md)
 
 ### Mathematics
 
-6. [24-month mathematics plan](roadmap/math-24-month-plan.md)
-7. [Mathematics resources](roadmap/math-resources.md)
-8. [Mathematics weekly routine](routine/math-routine.md)
+7. [24-month mathematics plan](roadmap/math-24-month-plan.md)
+8. [Mathematics resources](roadmap/math-resources.md)
+9. [Mathematics weekly routine](routine/math-routine.md)
 
 ### Planning
 
-9. [Combined weekly routine](routine/weekly-routine.md)
-10. [Monthly review](routine/monthly-review.md)
+10. [Combined weekly routine](routine/weekly-routine.md)
+11. [Monthly review](routine/monthly-review.md)
 
 ## Priority rule
 
@@ -80,9 +82,11 @@ This is an ambitious ceiling, not a daily guilt machine. During heavy university
 - [ ] One team, internship, research, or open-source experience
 - [ ] Strong Git/GitHub and Linux workflow
 - [ ] Practical SQL and PostgreSQL knowledge
-- [ ] Solid OS, DBMS, networks, and OOP foundations
+- [ ] Solid OS, DBMS, networks, OOP, and architecture foundations
 - [ ] Dockerized applications with CI/CD
 - [ ] Basic new-grad system design ability
+- [ ] Python foundation for mathematical and AI work
+- [ ] Strong testing, debugging, and documentation habits
 - [ ] One-page resume and prepared behavioral stories
 - [ ] Regular mock interviews and broad applications
 
@@ -109,7 +113,7 @@ Do not make these primary tracks during the first year:
 - cybersecurity specialization
 - network engineering certifications
 - multiple cloud platforms
-- multiple programming languages
+- additional major programming languages beyond C++, TypeScript, and later Python
 - advanced pure mathematics with no connection to the current goal
 
 They can be explored later after the core path is strong.
