@@ -1,14 +1,14 @@
-# Two-Year MAANG-Level Software Engineering Roadmap
+# Two-Year MAANG-Level Software Engineering and Mathematics Roadmap
 
-A focused 24-month plan for becoming a strong new-graduate software engineer while continuing university, mathematics, DSA, and Codeforces.
+A focused 24-month plan for becoming a strong new-graduate software engineer while continuing university, DSA, Codeforces, and building the mathematics required for AI and research.
 
 ## Target profile
 
 By graduation, I want to be able to say:
 
-> I solve difficult problems in C++, build reliable backend/full-stack systems with TypeScript and PostgreSQL, understand core computer science, and can explain my engineering decisions clearly.
+> I solve difficult problems in C++, build reliable backend/full-stack systems with TypeScript and PostgreSQL, understand core computer science, and have the mathematical foundation to study machine learning and read introductory research papers.
 
-## Main stack
+## Main engineering stack
 
 - **Problem solving:** C++
 - **Backend:** TypeScript, Node.js, Express/NestJS
@@ -18,38 +18,60 @@ By graduation, I want to be able to say:
 - **Foundations:** DSA, OOP, DBMS, OS, networks, software engineering
 - **Later:** system design, cloud fundamentals, Redis, queues, observability
 
+## Mathematics path
+
+- **Foundation repair:** arithmetic, algebra, functions, logarithms, geometry, trigonometry
+- **Mathematical thinking:** logic, sets, proof writing
+- **CS mathematics:** combinatorics, number theory, recurrences, graphs, asymptotics
+- **AI foundations:** calculus, linear algebra, probability, statistics, multivariable calculus, optimization
+- **Integration:** numerical computing, ML derivations, and research-reading practice
+
 ## Roadmap files
 
-1. [24-month plan](roadmap/24-month-plan.md)
-2. [Complete topic checklist](roadmap/complete-topic-checklist.md)
+### Engineering
+
+1. [24-month engineering plan](roadmap/24-month-plan.md)
+2. [Complete engineering topic checklist](roadmap/complete-topic-checklist.md)
 3. [DSA and Codeforces track](roadmap/dsa-codeforces.md)
 4. [Projects](roadmap/projects.md)
-5. [Weekly routine](routine/weekly-routine.md)
-6. [Monthly review](routine/monthly-review.md)
-7. [Interview and career preparation](roadmap/interview-career.md)
+5. [Interview and career preparation](roadmap/interview-career.md)
+
+### Mathematics
+
+6. [24-month mathematics plan](roadmap/math-24-month-plan.md)
+7. [Mathematics resources](roadmap/math-resources.md)
+8. [Mathematics weekly routine](routine/math-routine.md)
+
+### Planning
+
+9. [Combined weekly routine](routine/weekly-routine.md)
+10. [Monthly review](routine/monthly-review.md)
 
 ## Priority rule
 
-Do not learn every technology at once.
+Do not learn every technology or mathematics topic at once.
 
 1. Learn the concept.
-2. Build something with it.
+2. Solve problems or build something with it.
 3. Explain it in writing.
 4. Review it later.
 5. Only then move deeper.
 
 ## Weekly target
 
-Aim for **15–18 focused hours outside university**:
+A normal target is **19–23 focused hours outside university**:
 
-- DSA and Codeforces: 6 hours
+- DSA and Codeforces: 4–6 hours
 - Development and projects: 6–8 hours
 - CS fundamentals: 2–3 hours
+- Mathematics: 5–7 hours
 - Review and planning: 1 hour
 
-During exams, reduce this to a maintenance routine rather than quitting completely.
+This is an ambitious ceiling, not a daily guilt machine. During heavy university weeks, use the minimum viable routines and maintain continuity.
 
 ## Definition of success after 24 months
+
+### Engineering
 
 - [ ] Comfortable solving interviews in C++
 - [ ] Strong understanding of common DSA patterns
@@ -64,16 +86,30 @@ During exams, reduce this to a maintenance routine rather than quitting complete
 - [ ] One-page resume and prepared behavioral stories
 - [ ] Regular mock interviews and broad applications
 
+### Mathematics
+
+- [ ] Reliable algebra, logarithm, trigonometry, and function skills
+- [ ] Ability to read and write elementary proofs
+- [ ] Strong combinatorics and number-theory foundations
+- [ ] Comfortable single-variable and multivariable calculus
+- [ ] Practical linear algebra including eigenvalues, projections, least squares, and SVD
+- [ ] Probability and statistics foundations
+- [ ] Understanding of gradients, optimization, and common ML losses
+- [ ] Ability to implement core mathematical ideas using NumPy
+- [ ] Ability to follow derivations in introductory ML material and selected research papers
+- [ ] Completed one mathematics/ML implementation or reproduction capstone
+
 ## Important exclusions for now
 
 Do not make these primary tracks during the first year:
 
 - Kubernetes
 - advanced DevOps
-- machine learning
+- machine learning frameworks before the mathematics and programming foundation
 - cybersecurity specialization
 - network engineering certifications
 - multiple cloud platforms
 - multiple programming languages
+- advanced pure mathematics with no connection to the current goal
 
 They can be explored later after the core path is strong.
