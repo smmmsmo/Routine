@@ -1,15 +1,21 @@
-# One-Year AI & Machine Learning Roadmap
+# Routine
 
-A structured one-year plan to build a deep understanding of artificial intelligence and machine learning—from mathematics and classical ML to deep learning, LLMs, reinforcement learning, deployment, and research.
+A general-purpose repository for personal routines, structured learning plans, notes, progress tracking, and long-term projects.
 
-## End Goal
+## Learning Tracks
 
-By the end of this roadmap, I should be able to:
+### [Artificial Intelligence & Machine Learning](AIML/README.md)
 
-- Understand the mathematics behind machine learning
-- Implement major algorithms from scratch
-- Use Python and PyTorch confidently
-- Build computer vision, NLP, and LLM projects
-- Train, fine-tune, evaluate, and deploy models
-- Understand transformers and generative AI deeply
-- Build end-to-end ML
+A complete one-year AI/ML learning framework covering mathematics, Python, classical machine learning, deep learning, computer vision, NLP, large language models, reinforcement learning, generative AI, MLOps, research skills, projects, resources, and progress tracking.
+
+## Repository Philosophy
+
+Each learning track should follow the same cycle:
+
+1. Learn the intuition.
+2. Study the mathematics and theory.
+3. Implement the idea from scratch.
+4. Use the standard library or framework implementation.
+5. Build a project.
+6. Explain the concept in your own words.
+7. Review and improve it over time.
