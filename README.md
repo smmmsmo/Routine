@@ -2,6 +2,21 @@
 
 A focused 24-month plan for becoming a strong new-graduate software engineer while continuing university, DSA, Codeforces, and building the mathematics required for AI and research.
 
+## Repository boundary
+
+This repository owns **career sequencing**: the 24-month plan, weekly/monthly
+routines, mathematics schedule, interview preparation, and target engineering
+profile. Detailed lessons remain in the learning repositories:
+
+- [`MooLearning/python`](https://github.com/MooLearning/python) for Python,
+  DSA, data science, and introductory AI/ML;
+- [`MooLearning/cpp`](https://github.com/MooLearning/cpp) for C++;
+- [`smmmsmo/Routine`](https://github.com/smmmsmo/Routine) for personal and AIML
+  scheduling.
+
+When topics overlap, this roadmap determines **when and why** to study them;
+the learning repository determines **what the detailed lessons contain**.
+
 ## Target profile
 
 By graduation, I want to be able to say:
