@@ -2,6 +2,23 @@
 
 A general-purpose repository for personal routines, structured learning plans, notes, progress tracking, and long-term projects.
 
+## Repository boundary
+
+This repository is the **schedule and progress layer**. It says what to study,
+when to study it, and how to track progress; it does not replace the detailed
+learning repositories.
+
+- [`MooLearning/python`](https://github.com/MooLearning/python) is the canonical
+  detailed Python, DSA, data-science, and introductory AI/ML curriculum.
+- [`MooLearning/cpp`](https://github.com/MooLearning/cpp) is the canonical
+  detailed C++ curriculum.
+- [`smmmsmo/maang-engineer-roadmap`](https://github.com/smmmsmo/maang-engineer-roadmap)
+  is the canonical long-term software-engineering and career plan.
+
+The AIML files here are sequencing and coverage checklists. When a topic appears
+both here and in a detailed curriculum, the detailed curriculum is the source
+of truth.
+
 ## Learning Tracks
 
 ### [Artificial Intelligence & Machine Learning](AIML/README.md)

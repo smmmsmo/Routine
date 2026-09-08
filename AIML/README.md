@@ -2,6 +2,12 @@
 
 This directory is a one-year, project-driven roadmap for developing a strong understanding of artificial intelligence and machine learning—from mathematics and classical algorithms to deep learning, LLMs, deployment, and research.
 
+> **Scope:** this directory owns the one-year schedule, progress tracking, and
+> advanced-AIML coverage map. The executable, topic-by-topic Python/DSA/ML
+> lessons live in the canonical
+> [`MooLearning/python`](https://github.com/MooLearning/python) repository.
+> Do not duplicate those lesson files here; link to them from the schedule.
+
 ## One-Year Target
 
 By the end of the year, you should be able to:

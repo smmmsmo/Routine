@@ -1,5 +1,10 @@
 # Python for AI and Machine Learning
 
+> This is a scheduling checklist, not a second Python curriculum. Follow the
+> runnable lessons and exercises in
+> [`MooLearning/python`](https://github.com/MooLearning/python); use this page
+> only to confirm the Python capabilities needed by the AIML roadmap.
+
 ## Core Python
 
 - Variables, control flow, comprehensions, functions, scope, modules, and packages
