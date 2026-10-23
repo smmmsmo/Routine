@@ -12,14 +12,19 @@ learning repositories.
   detailed Python, DSA, data-science, and introductory AI/ML curriculum.
 - [`MooLearning/cpp`](https://github.com/MooLearning/cpp) is the canonical
   detailed C++ curriculum.
-- [`smmmsmo/maang-engineer-roadmap`](https://github.com/smmmsmo/maang-engineer-roadmap)
-  is the canonical long-term software-engineering and career plan.
+- [MAANG engineering roadmap](maang-engineer-roadmap/README.md) is the canonical
+  long-term software-engineering and career plan, maintained in this repository.
 
 The AIML files here are sequencing and coverage checklists. When a topic appears
 both here and in a detailed curriculum, the detailed curriculum is the source
 of truth.
 
 ## Learning Tracks
+
+### [MAANG Engineering & Mathematics](maang-engineer-roadmap/README.md)
+
+A two-year software-engineering and mathematics roadmap with project milestones,
+interview preparation, weekly routines, and monthly reviews.
 
 ### [Artificial Intelligence & Machine Learning](AIML/README.md)
 
