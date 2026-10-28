@@ -23,7 +23,7 @@ of truth.
 
 ### [MATH-Routine — 6-phase mathematics master program](MATH-Routine/README.md)
 
-**Current mathematics study commitment:** 3 hours/day × 7 days = **21 hours/week**, planned as **6 phases (0–5), 312 weeks and 6,552 scheduled hours**. [Phase 0](MATH-Routine/Phase-0/README.md) is the current study stage. [Phase 2](MATH-Routine/Phase-2/README.md) and [Phase 3](MATH-Routine/Phase-3/README.md) are planned ahead (72 weeks / 1,512 hours and 64 weeks / 1,344 hours respectively), each with topics, resources and exact weekly schedules. Phase 1 remains the intervening prerequisite stage. This is a **separate mathematics-focused program** from the older MAANG combined routine, which budgets mathematics at 5–7 hours/week; schedules must be reconciled rather than added automatically.
+**Current mathematics study commitment:** 3 hours/day × 7 days = **21 hours/week**, planned as **6 phases (0–5), 312 weeks and 6,552 scheduled hours**. [Phase 0](MATH-Routine/Phase-0/README.md) is the current study stage. [Phase 2](MATH-Routine/Phase-2/README.md), [Phase 3](MATH-Routine/Phase-3/README.md) and [Phase 4](MATH-Routine/Phase-4/README.md) are planned ahead (72 weeks / 1,512 hours; 64 weeks / 1,344 hours; 64 weeks / 1,344 hours), each with topics, resources and exact weekly schedules. Phase 1 remains the intervening prerequisite stage. This is a **separate mathematics-focused program** from the older MAANG combined routine, which budgets mathematics at 5–7 hours/week; schedules must be reconciled rather than added automatically.
 
 
 ### [MAANG Engineering & Mathematics](maang-engineer-roadmap/README.md)
