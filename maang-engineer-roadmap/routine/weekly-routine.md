@@ -1,5 +1,8 @@
 # Combined Weekly Routine
 
+> **Separate mathematics-only plan:** The new [MATH-Routine](../../MATH-Routine/README.md) allocates **21 hours/week** to mathematics alone (6 phases, **312 weeks / 6,552 planned hours**; Phase 0 is 16 weeks / 336 hours). This page's **19–23 hours/week** is the **legacy combined engineering schedule including only 5–7 math hours**. These two schedules are **alternatives, not additive targets**. Reallocate other activities explicitly if adopting the 21-hour math plan.
+
+
 Default target: **19–23 focused hours per week outside university**.
 
 This is ambitious. During heavy academic weeks, reduce volume but preserve continuity.
