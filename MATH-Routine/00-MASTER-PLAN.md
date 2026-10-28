@@ -1,6 +1,6 @@
 # Master plan — six phases, prerequisites and timing
 
-This is the **high-level map only** for Phases 1–5. Phase 0 has the fully specified lessons, resources, assessments and scheduling: [Phase 0](Phase-0/README.md).
+This is the six-phase master map. [Phase 0](Phase-0/README.md) and [Phase 2](Phase-2/README.md) now have detailed schedules, topics and resources. Phase 1 remains to be built; actual study still follows 0 → 1 → 2.
 
 ## Why these phases
 
@@ -53,6 +53,8 @@ All numbers assume every planned session happens. Effective productive hours wil
 - Programming integration: numerical derivatives/integrals, linear solvers, basic algorithm correctness proofs.
 
 ### Phase 2 — advanced undergraduate mathematics (72 weeks)
+
+**Detailed advance-built plan:** [72-week schedule](Phase-2/SCHEDULE.md), [full selected syllabus](Phase-2/TOPICS.md), [quality-first resources](Phase-2/RESOURCES.md).
 - Real analysis, metric spaces, sequences/series of functions, rigorous limits/integration.
 - Abstract algebra: groups, rings, fields; proof-based linear algebra.
 - Probability, mathematical statistics, inference and statistical modeling.
