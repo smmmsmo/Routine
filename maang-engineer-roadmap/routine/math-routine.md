@@ -1,5 +1,8 @@
 # Mathematics Routine
 
+> **New 21-hour mathematics master plan:** [MATH-Routine](../../MATH-Routine/README.md) is the canonical new six-phase program (3 h/day, 7 days/week; **312 planned weeks / 6,552 scheduled hours**). Its complete [Phase 0](../../MATH-Routine/Phase-0/README.md) has a 16-week / 336-hour budget. The 5–7 hours/week below are **only the older compact mathematics component of the combined MAANG engineering schedule**; do not count both schedules simultaneously.
+
+
 The goal is long-term mathematical maturity alongside university, software engineering, DSA, and occasional competitive problem solving. The routine must be sustainable.
 
 ## Weekly time
