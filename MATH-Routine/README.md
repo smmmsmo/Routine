@@ -1,6 +1,6 @@
 # MATH-Routine — Math Foundations to Research
 
-**Curriculum status: Phases 0, 2 and 3 have detailed plans. Phase 1 remains to be built. Study progression stays Phase 0 → 1 → 2 → 3 → 4 → 5.**
+**Curriculum status: Phases 0, 2, 3 and 4 have detailed plans. Phase 1 remains to be built. Study progression stays Phase 0 → 1 → 2 → 3 → 4 → 5.**
 
 This is the mathematics-only 21-hour/week program. It is separate from the older 5–7-hour MAANG/engineering combined routine in this repository. Do not add 21 math hours on top of an existing 19–23-hour schedule without explicitly reallocating other activities.
 
@@ -48,13 +48,18 @@ This is the mathematics-only 21-hour/week program. It is separate from the older
    - [High-quality paid/free books and courses](Phase-3/RESOURCES.md)
    - [Exact 64-week schedule and resource assignments](Phase-3/SCHEDULE.md)
 
+5. **[Phase 4 — 64-week graduate mathematics gateways](Phase-4/README.md)** (built in advance; study it after Phase 3).
+   - [All topics and subtopics](Phase-4/TOPICS.md)
+   - [High-quality paid/free books and courses](Phase-4/RESOURCES.md)
+   - [Exact 64-week topic and resource schedule](Phase-4/SCHEDULE.md)
+
 ## Advancement policy
 
 1. Diagnostic → study → independent problem solving → proof/explanation → spaced recall → exit exam.
 2. **Target ≥80/100** on a fresh, mixed assessment, with no critical algebra/log/trig weakness and a completed mini-project. Re-test weak categories after repair.
 3. Every fourth week emphasizes consolidation; week 16 is a formal Phase 0 gate.
 4. If Phase 0 needs 20–24 weeks instead of 16, take the time. Do **not** start Phase 1 because a calendar page turned.
-5. Phase 1 is pending. Phases 2 and 3 are **planned in advance at the user's request**; the study order remains Phase 0 → 1 → 2 → 3. Later plans are not a reason to skip prerequisites.
+5. Phase 1 is pending. Phases 2, 3 and 4 are **planned in advance at the user's request**; the study order remains Phase 0 → 1 → 2 → 3 → 4. Later plans are not a reason to skip prerequisites.
 
 ## Study tracks
 
