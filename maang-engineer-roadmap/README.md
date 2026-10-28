@@ -35,6 +35,9 @@ By graduation, I want to be able to say:
 
 ## Mathematics path
 
+> **Current standalone math plan:** [MATH-Routine](../MATH-Routine/README.md) is a separate six-phase, 21-hour/week roadmap (**312 planned weeks; 6,552 scheduled hours**). [Phase 0](../MATH-Routine/Phase-0/README.md) is built for **16 weeks / 336 hours** of school-math revision. This page retains the **older 5–7-hour/week mathematics allocation within the combined MAANG track**, not an additional compulsory 21 hours. Choose/reallocate before using both.
+
+
 - **Foundation repair:** arithmetic, algebra, functions, logarithms, geometry, trigonometry
 - **Mathematical thinking:** logic, sets, proof writing
 - **CS mathematics:** combinatorics, number theory, recurrences, graphs, asymptotics
