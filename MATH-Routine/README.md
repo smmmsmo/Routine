@@ -1,6 +1,6 @@
 # MATH-Routine — Math Foundations to Research
 
-**Curriculum status: Phases 0, 2, 3, 4 and 5 now have detailed plans. Phase 1 remains to be built. Study progression stays Phase 0 → 1 → 2 → 3 → 4 → 5.**
+**Curriculum status: ALL SIX PHASES (0–5) now have their own detailed plans. Study progression stays Phase 0 → 1 → 2 → 3 → 4 → 5.**
 
 This is the mathematics-only 21-hour/week program. It is separate from the older 5–7-hour MAANG/engineering combined routine in this repository. Do not add 21 math hours on top of an existing 19–23-hour schedule without explicitly reallocating other activities.
 
@@ -26,37 +26,23 @@ This is the mathematics-only 21-hour/week program. It is separate from the older
 
 > These phases are the primary order, not sealed boxes. Start easy proof practice immediately, and use math in coding throughout. Advanced ML work requires specific prerequisites, not simply a phase number. Research curiosity starts in Phase 0; Phase 5 is sustained research focus.
 
-## Navigate
+## Navigate — all 6 phases are built
 
-1. [Master plan, prerequisite graph and timing](00-MASTER-PLAN.md).
-2. **[Phase 0 — START HERE](Phase-0/README.md)**.
-   - [Detailed syllabus and mastery checklist](Phase-0/SYLLABUS.md)
-   - [16-week guided schedule](Phase-0/WEEK-BY-WEEK.md)
-   - [Daily routine, spaced revision and progress tracker](Phase-0/ROUTINE-AND-TRACKER.md)
-   - [Resources with exact links](Phase-0/RESOURCES.md)
-   - [Diagnostic and exit exams](Phase-0/ASSESSMENTS.md)
-   - [Practice problem bank](Phase-0/PRACTICE-BANK.md)
-   - [Math + Python projects](Phase-0/PROJECTS.md)
+1. [Six-phase master map, prerequisites and total timing](00-MASTER-PLAN.md)
+2. **[Phase 0 — foundations and revision (16 weeks, 336 h)](Phase-0/README.md)**
+   - [Topics](Phase-0/SYLLABUS.md) · [Schedule](Phase-0/WEEK-BY-WEEK.md) · [Resources](Phase-0/RESOURCES.md) · [Assessment](Phase-0/ASSESSMENTS.md)
+3. **[Phase 1 — university mathematics (64 weeks, 1,344 h)](Phase-1/README.md)**
+   - [Topics](Phase-1/TOPICS.md) · [Resources](Phase-1/RESOURCES.md) · [Week-by-week schedule](Phase-1/SCHEDULE.md)
+4. **[Phase 2 — advanced undergraduate mathematics (72 weeks, 1,512 h)](Phase-2/README.md)**
+   - [Topics](Phase-2/TOPICS.md) · [Resources](Phase-2/RESOURCES.md) · [Week-by-week schedule](Phase-2/SCHEDULE.md)
+5. **[Phase 3 — AI/ML and theoretical CS mathematics (64 weeks, 1,344 h)](Phase-3/README.md)**
+   - [Topics](Phase-3/TOPICS.md) · [Resources](Phase-3/RESOURCES.md) · [Week-by-week schedule](Phase-3/SCHEDULE.md)
+6. **[Phase 4 — graduate mathematics (64 weeks, 1,344 h)](Phase-4/README.md)**
+   - [Topics](Phase-4/TOPICS.md) · [Resources](Phase-4/RESOURCES.md) · [Week-by-week schedule](Phase-4/SCHEDULE.md)
+7. **[Phase 5 — focused mathematical research (32 weeks, 672 h)](Phase-5/README.md)**
+   - [Topics](Phase-5/TOPICS.md) · [Resources](Phase-5/RESOURCES.md) · [Week-by-week schedule](Phase-5/SCHEDULE.md)
 
-3. **[Phase 2 — detailed 72-week advanced-undergraduate curriculum](Phase-2/README.md)** (prepared ahead of time; study it only after Phase 1 prerequisites).
-   - [All topics and subtopics](Phase-2/TOPICS.md)
-   - [Best-fit paid/free resources](Phase-2/RESOURCES.md)
-   - [Exact 72-week topic-to-resource schedule](Phase-2/SCHEDULE.md)
-
-4. **[Phase 3 — 64-week AI/ML and theoretical CS mathematics](Phase-3/README.md)** (built in advance; study it after Phase 2).
-   - [All topics and subtopics](Phase-3/TOPICS.md)
-   - [High-quality paid/free books and courses](Phase-3/RESOURCES.md)
-   - [Exact 64-week schedule and resource assignments](Phase-3/SCHEDULE.md)
-
-5. **[Phase 4 — 64-week graduate mathematics gateways](Phase-4/README.md)** (built in advance; study it after Phase 3).
-   - [All topics and subtopics](Phase-4/TOPICS.md)
-   - [High-quality paid/free books and courses](Phase-4/RESOURCES.md)
-   - [Exact 64-week topic and resource schedule](Phase-4/SCHEDULE.md)
-
-6. **[Phase 5 — 32-week mathematical research specialization](Phase-5/README.md)** (advance-built; begin after Phase 4).
-   - [Complete scoped research topics and specialization options](Phase-5/TOPICS.md)
-   - [Research books, tools, reading resources (paid/free)](Phase-5/RESOURCES.md)
-   - [Exact 32-week research schedule](Phase-5/SCHEDULE.md)
+**Complete curriculum planning total: 312 weeks × 21 h/week = 6,552 scheduled hours.** These are estimated budgets; understanding and proofs take priority over dates. Everything is now documented, but **Phase 0 is still the actual starting point**.
 
 ## Advancement policy
 
@@ -64,7 +50,7 @@ This is the mathematics-only 21-hour/week program. It is separate from the older
 2. **Target ≥80/100** on a fresh, mixed assessment, with no critical algebra/log/trig weakness and a completed mini-project. Re-test weak categories after repair.
 3. Every fourth week emphasizes consolidation; week 16 is a formal Phase 0 gate.
 4. If Phase 0 needs 20–24 weeks instead of 16, take the time. Do **not** start Phase 1 because a calendar page turned.
-5. Phase 1 is pending. Phases 2, 3, 4 and 5 are **planned in advance at the user's request**; the study order remains Phase 0 → 1 → 2 → 3 → 4 → 5. Later plans are not a reason to skip prerequisites.
+5. **All six phases are now planned**, but studying must follow Phase 0 → 1 → 2 → 3 → 4 → 5. A built syllabus does not waive previous-phase prerequisites.
 
 ## Study tracks
 
