@@ -1,6 +1,6 @@
 # Master plan — six phases, prerequisites and timing
 
-This is the six-phase master map. [Phase 0](Phase-0/README.md), [Phase 2](Phase-2/README.md) and [Phase 3](Phase-3/README.md) have detailed schedules, topics and resources. Phase 1 remains to be built; actual study still follows 0 → 1 → 2 → 3.
+This is the six-phase master map. [Phase 0](Phase-0/README.md), [Phase 2](Phase-2/README.md), [Phase 3](Phase-3/README.md) and [Phase 4](Phase-4/README.md) have detailed schedules, topics and resources. Phase 1 remains to be built; actual study still follows 0 → 1 → 2 → 3 → 4.
 
 ## Why these phases
 
@@ -71,6 +71,8 @@ All numbers assume every planned session happens. Effective productive hours wil
 - Algorithms, randomized algorithms, automata, computability, P/NP, reductions, complexity.
 
 ### Phase 4 — graduate mathematical gateways (64 weeks)
+
+**Detailed advance-built plan:** [64-week schedule](Phase-4/SCHEDULE.md), [complete scoped syllabus](Phase-4/TOPICS.md), [quality-first graduate resources](Phase-4/RESOURCES.md).
 - Measure and Lebesgue integration, function spaces, functional analysis.
 - Advanced probability, conditional expectation, martingales and stochastic processes.
 - Advanced optimization, convex duality; chosen geometry/PDE/topology/harmonic analysis electives.
