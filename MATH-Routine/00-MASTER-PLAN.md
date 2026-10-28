@@ -1,6 +1,6 @@
 # Master plan — six phases, prerequisites and timing
 
-This is the six-phase master map. [Phase 0](Phase-0/README.md), [Phase 2](Phase-2/README.md), [Phase 3](Phase-3/README.md), [Phase 4](Phase-4/README.md) and [Phase 5](Phase-5/README.md) have detailed schedules, topics and resources. Phase 1 remains to be built; actual study still follows 0 → 1 → 2 → 3 → 4 → 5.
+This is the **complete six-phase master map**. [Phase 0](Phase-0/README.md), [Phase 1](Phase-1/README.md), [Phase 2](Phase-2/README.md), [Phase 3](Phase-3/README.md), [Phase 4](Phase-4/README.md) and [Phase 5](Phase-5/README.md) now have detailed topic lists, quality-first resources and timed schedules. Actual study still follows **0 → 1 → 2 → 3 → 4 → 5**, with mastery gates.
 
 ## Why these phases
 
@@ -46,6 +46,9 @@ All numbers assume every planned session happens. Effective productive hours wil
 ## Topic inventory for later phases (not the detailed lesson plans)
 
 ### Phase 1 — undergraduate foundations (64 weeks)
+
+**Detailed curriculum:** [64-week schedule](Phase-1/SCHEDULE.md), [complete scoped syllabus](Phase-1/TOPICS.md), [quality-first books and courses](Phase-1/RESOURCES.md).
+
 - Differential and integral calculus: limits, continuity, differentiation, applications, integration, fundamental theorem, sequences/series.
 - Linear algebra: systems, vector spaces, linear maps, bases, rank, determinants, eigenvalues, orthogonality, least squares, SVD.
 - Discrete math and proofs: logic, sets, quantifiers, induction, combinatorics, elementary graph theory.
