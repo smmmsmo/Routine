@@ -1,53 +1,43 @@
 # Phase 0 — Foundation Repair & Revision
 
-**This is the only fully built phase right now.**
+**Official starting phase.** You studied school mathematics and introductory calculus before but forgot parts of algebra, logarithms and trigonometry. This phase **rebuilds those foundations** before Phase 1.
 
-**Who:** Has studied school mathematics and some calculus, but forgot logarithms, trigonometric identities and other school material. **Goal:** reliably enter university calculus, linear algebra and proof-based discrete mathematics.
+## 1. Full timeframe
 
-- **Budget:** 16 weeks × 7 days × 3 hours = **336 scheduled hours**.
-- **Sequence:** algebra → functions/logarithms → geometry/trigonometry → pre-calculus → limits, intro derivative/proofs.
-- **Do not aim to complete Calculus I/II in this phase.** Phase 0 makes you ready to study them rigorously in Phase 1.
-- **Exit requirement:** fresh cumulative score ≥80/100, essential algebra/log/trig clusters ≥70%, proof explanation and one numerical/graphing project; retain after a seven-day recheck.
+- **16 weeks** at **3 hours daily, 7 days per week**.
+- **21 hours per week × 16 weeks = 336 total scheduled study hours** (112 study days).
+- About **3.7 months** at uninterrupted planned pace. If essential topics remain weak, extend the phase rather than inventing mastery.
+- All topic study, textbook problems, revision and assessments must fit inside these **336 hours**.
 
-## Exact documents (start in order)
+| Block | Weeks | Weeks | Hours | Focus |
+|---|---|---:|---:|---|
+| A | 1–4 | 4 | 84 | Number skills, algebra, equations and inequalities |
+| B | 5–9 | 5 | 105 | Functions and graphs, **logarithms**, geometry and **trigonometry** |
+| C | 10–13 | 4 | 84 | Sequences, vectors, precalculus, limits and first derivative ideas |
+| D | 14–16 | 3 | 63 | Introductory proof language and cumulative mathematical revision |
+| **TOTAL** | **1–16** | **16** | **336** | **All Phase 0 topics** |
 
-1. [Diagnostic and exit assessment](ASSESSMENTS.md) — do diagnostic before reading the solutions.
-2. [Complete syllabus and subtopic checkboxes](SYLLABUS.md).
-3. [16-week lesson schedule](WEEK-BY-WEEK.md).
-4. [Daily and weekly routine + progress tracker](ROUTINE-AND-TRACKER.md).
-5. [Verified resources](RESOURCES.md).
-6. [Independent practice bank](PRACTICE-BANK.md).
-7. [Python mathematical mini-projects](PROJECTS.md).
+## 2. Exactly four Phase 0 files
 
-## Four stages inside Phase 0
+1. **[README.md](README.md)** — entire timeframe, blocks, completion rule and Phase 1 handoff.
+2. **[TOPICS.md](TOPICS.md)** — every Phase 0 topic/subtopic you must finish.
+3. **[RESOURCES.md](RESOURCES.md)** — best-fit books and university courses, **paid or free**, assigned to the blocks.
+4. **[SCHEDULE.md](SCHEDULE.md)** — **all 16 weeks**, each with topics, corresponding resources and a weekly finish target.
 
-| Block | Weeks | Hours | Main output |
-|---|---:|---:|---|
-| A — arithmetic and algebra refresh | 1–4 | 84 | fluent expressions, inequalities, equations |
-| B — functions, logs, trig and geometry | 5–9 | 105 | inverse functions, trig identities, unit circle, graphs |
-| C — precalculus and calculus readiness | 10–13 | 84 | sequences, vectors, limits, introductory derivatives |
-| D — proof/coding and cumulative consolidation | 14–16 | 63 | proofs, project, final qualifying assessment |
-| **TOTAL** | **16** | **336** | **Ready for Phase 1 if gate passed** |
+This is the same structure as Phases 1–5. The older Phase 0 standalone diagnostic, problem-bank, project and daily-tracker documents were historical extras; the current **four-file** version contains only the three planning elements you requested (time, topics, resources/schedule).
 
-Proof habit and spaced recall run across *all* four blocks; the table shows main emphasis.
+## 3. Weekly time budget
 
-## Start today (first session)
+Each of the 16 weeks: **6 hours reading and worked examples + 10 hours independent exercises + 2 hours difficult problems/visualization + 3 hours mixed revision/test = 21 hours**. The seventh study day can be used for the 3-hour test and corrections. Nothing is required outside the scheduled 21 hours.
 
-1. Read the [routine](ROUTINE-AND-TRACKER.md) and create your error log.
-2. Take [Diagnostic A](ASSESSMENTS.md) **closed book**; mark each problem green / yellow / red.
-3. Study weak items using the [resource map](RESOURCES.md).
-4. Finish with 15–20 minutes of corrections and list tomorrow's 3 exact tasks.
+## 4. Phase 0 completion
 
-**Rule:** no skipping forgotten fundamentals because you recognized the chapter title. Recognition is not recall.
+- Complete the named [topics](TOPICS.md) and [16-week plan](SCHEDULE.md) at the stated scope.
+- Fresh closed-book mixed assessment target **≥80% overall**, with essential **algebra, functions, logs and trig each ≥70%**.
+- Explain at least two elementary derivations/proofs and independently solve unfamiliar mixed exercises.
+- Week 15 mock + Week 16 retention check (at least seven days later), **within** the 16-week budget.
+- When these skills are reliable, progress to **[Phase 1 — Core University Mathematics](../Phase-1/README.md)**. Phase 1 is already fully written; it covers proofs, Calculus I/II, linear algebra, multivariable calculus and discrete math.
 
-## Completion declaration
+**Reminder:** Phase 0 is revision and readiness. It does **not** duplicate the complete university-level calculus, analysis or proof courses of later phases.
 
-After the final exam and retention check, fill in:
-
-- Diagnostic: __/100; Exit exam: __/100; 7-day retention: __/100
-- Weak clusters repaired: __
-- Projects completed: __
-- Actual weeks: __; actual logged hours: __
-- Phase 0 gate passed? [ ] yes [ ] repair-and-retest
-
-Then we build Phase 1 with an equally detailed syllabus. No premature Phase 1 promises.
+[Back to all six phases](../README.md)
