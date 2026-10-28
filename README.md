@@ -21,6 +21,11 @@ of truth.
 
 ## Learning Tracks
 
+### [MATH-Routine — 6-phase mathematics master program](MATH-Routine/README.md)
+
+**Current mathematics study commitment:** 3 hours/day × 7 days = **21 hours/week**, planned as **6 phases (0–5), 312 weeks and 6,552 scheduled hours**. [Phase 0](MATH-Routine/Phase-0/README.md) is fully built first; Phase 1 begins after its mastery gate. This is a **separate mathematics-focused program** from the older MAANG combined routine, which budgets mathematics at 5–7 hours/week; schedules must be reconciled rather than added automatically.
+
+
 ### [MAANG Engineering & Mathematics](maang-engineer-roadmap/README.md)
 
 A two-year software-engineering and mathematics roadmap with project milestones,
