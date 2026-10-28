@@ -30,7 +30,7 @@ This is the mathematics-only 21-hour/week program. It is separate from the older
 
 1. [Six-phase master map, prerequisites and total timing](00-MASTER-PLAN.md)
 2. **[Phase 0 — foundations and revision (16 weeks, 336 h)](Phase-0/README.md)**
-   - [Topics](Phase-0/SYLLABUS.md) · [Schedule](Phase-0/WEEK-BY-WEEK.md) · [Resources](Phase-0/RESOURCES.md) · [Assessment](Phase-0/ASSESSMENTS.md)
+   - [Topics](Phase-0/TOPICS.md) · [Resources](Phase-0/RESOURCES.md) · [Week-by-week schedule](Phase-0/SCHEDULE.md)
 3. **[Phase 1 — university mathematics (64 weeks, 1,344 h)](Phase-1/README.md)**
    - [Topics](Phase-1/TOPICS.md) · [Resources](Phase-1/RESOURCES.md) · [Week-by-week schedule](Phase-1/SCHEDULE.md)
 4. **[Phase 2 — advanced undergraduate mathematics (72 weeks, 1,512 h)](Phase-2/README.md)**
