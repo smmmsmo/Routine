@@ -1,6 +1,6 @@
 # Master plan — six phases, prerequisites and timing
 
-This is the six-phase master map. [Phase 0](Phase-0/README.md) and [Phase 2](Phase-2/README.md) now have detailed schedules, topics and resources. Phase 1 remains to be built; actual study still follows 0 → 1 → 2.
+This is the six-phase master map. [Phase 0](Phase-0/README.md), [Phase 2](Phase-2/README.md) and [Phase 3](Phase-3/README.md) have detailed schedules, topics and resources. Phase 1 remains to be built; actual study still follows 0 → 1 → 2 → 3.
 
 ## Why these phases
 
@@ -62,6 +62,8 @@ All numbers assume every planned session happens. Effective productive hours wil
 - Selected breadth: complex analysis, topology, number theory, Fourier methods.
 
 ### Phase 3 — mathematics for AI/ML and theoretical CS (64 weeks)
+
+**Detailed advance-built plan:** [64-week schedule](Phase-3/SCHEDULE.md), [full scoped syllabus](Phase-3/TOPICS.md), [high-quality paid/free resources](Phase-3/RESOURCES.md).
 - Matrix calculus, gradient/Jacobian/Hessian, autodifferentiation; numerical optimization.
 - Statistical learning: likelihood, ERM, generalization bounds, kernels, SVMs, PCA.
 - Deep learning theory: backprop, attention, transformers, generative models, reinforcement learning.
