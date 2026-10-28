@@ -1,6 +1,6 @@
 # Master plan — six phases, prerequisites and timing
 
-This is the six-phase master map. [Phase 0](Phase-0/README.md), [Phase 2](Phase-2/README.md), [Phase 3](Phase-3/README.md) and [Phase 4](Phase-4/README.md) have detailed schedules, topics and resources. Phase 1 remains to be built; actual study still follows 0 → 1 → 2 → 3 → 4.
+This is the six-phase master map. [Phase 0](Phase-0/README.md), [Phase 2](Phase-2/README.md), [Phase 3](Phase-3/README.md), [Phase 4](Phase-4/README.md) and [Phase 5](Phase-5/README.md) have detailed schedules, topics and resources. Phase 1 remains to be built; actual study still follows 0 → 1 → 2 → 3 → 4 → 5.
 
 ## Why these phases
 
@@ -79,6 +79,8 @@ All numbers assume every planned session happens. Effective productive hours wil
 - Graduate-level reading, proof reconstruction, mathematical seminars.
 
 ### Phase 5 — research focus (32 weeks + ongoing)
+
+**Detailed advance-built plan:** [32-week schedule](Phase-5/SCHEDULE.md), [scoped research methods and specialty topics](Phase-5/TOPICS.md), [quality-first research resources](Phase-5/RESOURCES.md).
 - Choose one research domain (e.g., learning theory, optimization, algorithms, probability, analysis).
 - Map literature; reproduce and critique important proofs/experiments; formulate scoped questions.
 - Seek qualified mathematical feedback; document failed approaches and assumptions.
