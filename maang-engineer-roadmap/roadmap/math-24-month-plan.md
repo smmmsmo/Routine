@@ -1,5 +1,8 @@
 # Two-Year Mathematics Roadmap for AI, Research, and Problem Solving
 
+> **Historical/tactical 24-month plan, not the new six-phase master plan.** The new [MATH-Routine](../../MATH-Routine/README.md) defines **6 phases (0–5), 21 hours/week and ~6,552 scheduled hours over 312 weeks**. It starts with a fully built [Phase 0 revision program](../../MATH-Routine/Phase-0/README.md) (16 weeks / 336 hours). The older phase numbers in this document are local to the earlier 24-month MAANG plan and do not replace Phase 0–5.
+
+
 This plan starts from rusty school mathematics and builds toward the mathematical maturity needed to read introductory AI/ML papers, understand derivations, and keep enjoying competitive-mathematics-style problem solving.
 
 ## Outcome after 24 months
