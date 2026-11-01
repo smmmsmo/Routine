@@ -1,13 +1,15 @@
 # Fitness & Diet Plan
 
-> **Historical snapshot.** The current plan is [November 2026 — Food & Fitness](Fitness/2026-11/README.md): starting weight **98 kg**, grocery budget **৳6,000/month**, and revised morning/afternoon training. Its food quantities, exercise progression and pelvic-floor guidance supersede the older instructions below; use the November plan rather than combining both routines.
+> **Profile and target timeline updated 1 November 2026.** Use [November 2026 — Food & Fitness](Fitness/2026-11/README.md) for current meals and training. The workout, nutrition and shopping sections below the timeline are an older snapshot; the November plan supersedes those instructions.
 
 ## Profile
 
 - **Age:** 25
 - **Height:** 6′0″
-- **Weight recorded in this older snapshot:** ~102 kg; **98 kg confirmed on 1 November 2026**
+- **Current weight:** **98 kg**, confirmed 1 November 2026 (previously recorded around 102 kg)
 - **Goal weight:** 75 kg
+- **Remaining loss:** 23 kg
+- **Planning target:** September 2027 at an average 0.5 kg/week; conditional estimate
 - **Location:** Bangladesh
 - **Equipment:** None — bodyweight/freehand exercises only
 
@@ -17,18 +19,15 @@
 2. Strengthen the back to prevent future back problems
 3. Maintain pelvic floor / sexual health through targeted exercise
 
-## Timeline & Milestones
+## Timeline & Milestones — updated from 98 kg
 
-| Milestone | When | Weight |
-|---|---|---|
-| First visible change (waist, face) | Week 4–6 | ~97–98 kg |
-| Clothes noticeably looser | Month 3 | ~92 kg |
-| Halfway | Month 6 | ~88 kg |
-| Goal | Month 10–12 | 75 kg |
+**Current weight: 98 kg. Target: 75 kg. Remaining loss: 23 kg.**
 
-Target pace: **~0.6 kg/week**. Faster than that risks muscle loss, which undermines the look you're after.
+The working target is **September 2027**, about **46 weeks from 1 November 2026**, conditional on averaging **0.5 kg/week**. This replaces the previous timeline based on approximately 102 kg.
 
-**Tracking:** Measure waist at the navel weekly — it tracks belly fat better than the scale does.
+The single current milestone table is in [Target timeline](Fitness/2026-11/README.md#target-timeline). Rate-based scenarios span roughly June–December 2027 at averages of 0.75–0.4 kg/week; slower progress or plateaus can extend that. No exact date or visible body change is guaranteed.
+
+Compare consistent weekly morning-weight averages and waist measurements; revise the forecast using actual progress rather than treating a straight-line calculation as a promise.
 
 ---
 

@@ -4,6 +4,8 @@
 
 দামগুলো **1 November 2026-এ খুঁজে পাওয়া linked retailer listing** থেকে নেওয়া। আগের অনুমানভিত্তিক দাম ব্যবহার করা হয়নি। এগুলো তোমার এলাকার checkout বা সারা মাসের নিশ্চিত দাম নয়; offer, stock ও delivery location অনুযায়ী বদলাতে পারে। প্রতিটি price-এর পাশে দোকানের link আছে।
 
+**Target timeline:** 98 → 75 kg মানে **23 kg বাকি**। গড়ে **0.5 kg/week** কমলে প্রায় **46 সপ্তাহ**, অর্থাৎ planning target **September 2027**। এটা এই menu থেকে guaranteed ফল নয়; actual progress অনুযায়ী date বদলাবে। November শেষে এই rate-এ প্রায় **96 kg** একটি checkpoint। পুরো milestone table: [Target timeline](README.md#target-timeline)।
+
 ## 1. কোন ready-made রুটি কিনবে
 
 **প্রথম পছন্দ: [Golden Harvest Red Wheat Rooti — 20 pieces, 1,200 g](https://goldenharvestshops.com/product/red-wheat-rooti/)।**
