@@ -35,6 +35,12 @@ interview preparation, weekly routines, and monthly reviews.
 
 A complete one-year AI/ML learning framework covering mathematics, Python, classical machine learning, deep learning, computer vision, NLP, large language models, reinforcement learning, generative AI, MLOps, research skills, projects, resources, and progress tracking.
 
+## Health & Fitness
+
+### [November 2026 — food and fitness](Fitness/2026-11/README.md)
+
+Current starting weight: **98 kg**. A **৳6,000/month** grocery plan with separate food quantities, November vegetables, cooking instructions, six days of morning/afternoon activity, Friday recovery and a dated tracker. This supersedes the older [fitness snapshot](Fit_Habbit.md) for November.
+
 ## Repository Philosophy
 
 Each learning track should follow the same cycle:
@@ -46,3 +52,4 @@ Each learning track should follow the same cycle:
 5. Build a project.
 6. Explain the concept in your own words.
 7. Review and improve it over time.
+

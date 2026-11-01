@@ -1,10 +1,12 @@
 # Fitness & Diet Plan
 
+> **Historical snapshot.** The current plan is [November 2026 — Food & Fitness](Fitness/2026-11/README.md): starting weight **98 kg**, grocery budget **৳6,000/month**, and revised morning/afternoon training. Its food quantities, exercise progression and pelvic-floor guidance supersede the older instructions below; use the November plan rather than combining both routines.
+
 ## Profile
 
 - **Age:** 25
 - **Height:** 6′0″
-- **Current weight:** ~102 kg
+- **Weight recorded in this older snapshot:** ~102 kg; **98 kg confirmed on 1 November 2026**
 - **Goal weight:** 75 kg
 - **Location:** Bangladesh
 - **Equipment:** None — bodyweight/freehand exercises only
@@ -219,3 +221,4 @@ That leaves ~Tk 2,500 for vegetables to stay under a Tk 7,000 monthly budget. Tw
 | Kolmi shak | 4 aanti | 100 |
 
 Add milk (2 L/week, ~Tk 800–900/month) on top of either option if keeping it in the weekday breakfasts.
+
