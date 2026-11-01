@@ -18,7 +18,7 @@ Choose a repeatable afternoon slot, for example 5 PM. Allow a large meal to sett
 | Thursday | M routine | Walking session |
 | **Friday** | **Recovery** | **Recovery; optional easy stroll or gentle mobility only** |
 
-November begins on **Sunday**. Start with the Sunday walking session on 1 November, not Saturday's strength workout. All dates are in [TRACKER.md](TRACKER.md).
+November begins on **Sunday**. Start with the Sunday walking session on 1 November, not Saturday's strength workout. Recovery Fridays are **6, 13, 20 and 27 November**; the remaining dates follow the weekly table.
 
 ## 2. M — the short morning routine, about 10 minutes
 
@@ -125,6 +125,6 @@ Aim for consistent sleep, generally 7–9 hours. During long study/computer sess
 
 Some mild muscle soreness can follow new exercise. If soreness changes your movement, reduce sets or use easy walking that day. Sharp pain, joint pain or radiating back pain means stop the provoking exercise. Stop exercise and seek urgent help for chest pain, fainting or unusual severe breathlessness.
 
-If you miss a session, resume the next scheduled session. Do not combine two hard strength workouts or train through Friday to repay a missed day. Record actual work honestly. Use [TRACKER.md](TRACKER.md) to decide the next step.
+If you miss a session, resume the next scheduled session. Do not combine two hard strength workouts or train through Friday to repay a missed day. Record actual work honestly. Review recovery and walking comfort weekly; repeat the same level if needed.
 
-Evidence: [REFERENCES.md](REFERENCES.md). This is a custom introductory program; public guidelines support the overall structure, not every exact repetition or individual result.
+Guidance: [CDC adult activity](https://www.cdc.gov/physical-activity-basics/guidelines/adults.html), [NHS home strength](https://www.nhs.uk/live-well/exercise/strength-exercises/), [NIDDK physical activity and erectile health](https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment), and [NIDDK pelvic-floor exercises](https://www.niddk.nih.gov/health-information/urologic-diseases/kegel-exercises). This is a custom introductory program; these sources support the overall approach, not every repetition or an individual performance result.

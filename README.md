@@ -39,7 +39,7 @@ A complete one-year AI/ML learning framework covering mathematics, Python, class
 
 ### [November 2026 — food and fitness](Fitness/2026-11/README.md)
 
-Current starting weight: **98 kg**. A **৳6,000/month** grocery plan with separate food quantities, November vegetables, cooking instructions, six days of morning/afternoon activity, Friday recovery and a dated tracker. This supersedes the older [fitness snapshot](Fit_Habbit.md) for November.
+Current starting weight: **98 kg**. A **৳6,000/month** grocery plan in one [cooking and shopping guide](Fitness/2026-11/COOKING-INSTRUCTIONS.md), with named ready-made roti, vegetables and fruits, linked shop prices, and a separate [six-day exercise routine](Fitness/2026-11/EXERCISE-PLAN.md) with Friday recovery. This supersedes the older [fitness snapshot](Fit_Habbit.md) for November.
 
 ## Repository Philosophy
 
