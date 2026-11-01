@@ -1,10 +1,8 @@
 # November — এক জায়গায় খাবার, রান্না ও বাজারের নির্দেশনা
 
-**একজনের জন্য; starting weight 98 kg; groceries সর্বোচ্চ ৳6,000।** রান্নার দায়িত্বে যিনি আছেন, তাঁকে এই file-টাই দিন। সয়া chunks, বাদাম ও আলাদা আটা কেনা/রুটি বানানোর কাজ বাদ দেওয়া হয়েছে।
+একজনের November খাবার, রান্না ও বাজারের নির্দেশনা। রান্নার দায়িত্বে যিনি আছেন, তাঁকে এই file-টাই দিন। ব্যক্তিগত তথ্য ও target timeline: [Fit_Habbit.md](Fit_Habbit.md)।
 
 দামগুলো **1 November 2026-এ খুঁজে পাওয়া linked retailer listing** থেকে নেওয়া। আগের অনুমানভিত্তিক দাম ব্যবহার করা হয়নি। এগুলো তোমার এলাকার checkout বা সারা মাসের নিশ্চিত দাম নয়; offer, stock ও delivery location অনুযায়ী বদলাতে পারে। প্রতিটি price-এর পাশে দোকানের link আছে।
-
-**Target timeline:** 98 → 75 kg মানে **23 kg বাকি**। গড়ে **0.5 kg/week** কমলে প্রায় **46 সপ্তাহ**, অর্থাৎ planning target **September 2027**। এটা এই menu থেকে guaranteed ফল নয়; actual progress অনুযায়ী date বদলাবে। November শেষে এই rate-এ প্রায় **96 kg** একটি checkpoint। পুরো milestone table: [Target timeline](README.md#target-timeline)।
 
 ## 1. কোন ready-made রুটি কিনবে
 
@@ -14,53 +12,33 @@
 |---|---|
 | Manufacturer-এর listed ingredients | Whole Grain Wheat Flour ও Water |
 | এক পিস | 60 g frozen product; এটা 60 g শুকনা আটা নয় |
-| খাবার পরিমাণ | সকালে **2 পিস**, মোট 120 g frozen weight |
-| মাসে লাগবে | **60 পিস = 3 packet** |
-| পেজে দেখা offer | **৳200/packet → 3 packet ৳600** |
-| একই পেজের regular price | **৳250/packet → 3 packet ৳750** |
 | প্রস্তুতি | Ready-to-cook, ready-to-eat নয়। Frozen থেকে packet-এর নির্দেশমতো গরম pan-এ দুই পাশ রান্না; extra তেল/ঘি/মাখন নয় |
 | সংরক্ষণ | Manufacturer অনুযায়ী −18°C freezer; thaw হয়ে গেলে refreeze নয় |
 
 রুটি বেলা বা আটা মাখা লাগবে না; maid শুধু রান্না করে দেবে। আলাদা আটা কেনা বাদ, তবে এই ready-made রুটি গম দিয়ে তৈরি—wheat-free খাবার নয়।
 
-**না পেলে backup:** [Golden Harvest Atta Rooti — 20 pieces, 1,200 g](https://goldenharvestshops.com/product/atta-rooti/): listed offer **৳188**, regular **৳235**; তিন packet ৳564 / ৳705। Manufacturer wheat flour ও water উল্লেখ করে। প্রথম পছন্দের Red Wheat-এর whole-grain description বেশি স্পষ্ট।
+**না পেলে backup:** [Golden Harvest Atta Rooti — 20 pieces, 1,200 g](https://goldenharvestshops.com/product/atta-rooti/): listed offer **৳188**, regular **৳235**; তিন packet ৳564 / ৳705। Manufacturer wheat flour ও water উল্লেখ করে। প্রথম পছন্দের Red Wheat-এর whole-grain description বেশি স্পষ্ট। প্রথম পছন্দের packet count ও দাম section 5–6-এ দেওয়া আছে।
 
 কেনার সময় নাম, 20 pieces, 1,200 g, expiry ও actual ingredient label মিলিয়ে নাও। অন্য brand/size নিলে শুধু “2টা” ধরে একই portion হবে না। দৈনিক default হিসেবে plain whole-wheat roti নাও; layered paratha/porota-এর তেল ও calories আলাদা।
 
-## 2. প্রতিদিনের সঠিক পরিমাণ
+## 2. প্রতিদিনের meal portions
 
 **চাল ও ডাল শুকনা অবস্থায়; সবজি পরিষ্কার করার পর কাঁচা অবস্থায়; ফল খোসা/অখাদ্য অংশ বাদ দিয়ে মাপবে।**
 
-| খাবার | দিনের মোট | ব্যবহার |
-|---|---:|---|
-| Ready-made রুটি | **2 পিস, উপরের 60 g/piece product** | Breakfast |
-| ডিম | **2টা** | সেদ্ধ সবচেয়ে সহজ; অল্প তেলে করলে দিনের oil allowance-এর মধ্যে |
-| চাল | **230 g dry** | 115 g দুপুরে + 115 g রাতে; রান্নার পর batch অর্ধেক করে ভাগ |
-| মসুর ডাল | **130 g dry** | 65 g দুপুরে + 65 g রাতে; শুধু পাতলা ঝোল নয় |
-| সবজি | **450 g trimmed raw** | 150 g করে breakfast/lunch/dinner |
-| ফল | **প্রায় 120–150 g edible** | নিচের guava/banana নিয়ম |
-| Plain দুধ | **200 ml মোট** | চা/কফিতে দেওয়া দুধও এর মধ্যে |
-| সরিষার তেল | **15 ml মোট** | তিন বেলায় 5 ml করে; 5 ml-এর সমান চামচে মোট 3 চামচ |
-| মুরগি | রবিবারের lunch | মাসের 1 kg skin-off bone-in chicken পাঁচ ভাগে |
-| পাঙাশ মাছ | বৃহস্পতিবারের lunch | মাসের 1 kg after-cutting fish চার ভাগে |
-
-230 g শুকনা চাল সাধারণত প্রায় 575–765 g ভাত হতে পারে; পানি/চালভেদে বদলায়। **শুকনা চালের allocation-টাই আসল**, cooked cup অনুমান করে আবার extra দেবে না। Scale না থাকলে দোকান থেকে মেপে নিয়ে একই চাল/ডালের cup একবার calibrate করো।
-
-### সহজ daily menu
-
 | সময় | কী পরিবেশন করবে |
 |---|---|
-| সকাল | 2 ready-made roti + 2 eggs + 150 g সবজি |
-| দুপুর | অর্ধেক ভাত + অর্ধেক ডাল + 150 g সবজি; রবিবার chicken / বৃহস্পতিবার fish |
-| বিকেল | নির্দিষ্ট fruit portion; চা/কফি চাইলে দিনের 200 ml দুধ থেকে |
-| রাত | বাকি ভাত + বাকি ডাল + 150 g সবজি |
-| শুক্রবার | একই খাবারের পরিমাণ; exercise recovery বলে meal বাদ নয় |
+| সকাল | **2 ready-made roti**, প্রতিটি 60 g frozen product + **2 eggs** + **150 g সবজি** |
+| দুপুর | **115 g dry rice** দিয়ে রান্না করা ভাত + **65 g dry dal** দিয়ে রান্না করা ডাল + **150 g সবজি**; section 7-এর নির্দিষ্ট দিনে fish/chicken |
+| বিকেল | Section 4-এর fruit portion; **plain milk 200 ml মোট**, চা/কফিতে ব্যবহারসহ; চিনি ছাড়া |
+| রাত | বাকি অর্ধেক ভাত ও ডাল + **150 g সবজি** |
 
-**সব ডাল-ভাত এবং 2টি ডিম প্রতিদিন থাকবে**, fish/chicken day-তেও। সপ্তাহে meat/fish সীমিত রাখা হয়েছে ৳6,000-এর মধ্যে কেনা রুটি, ফল, সবজি ও দুধ রাখতে।
+দিনের batch-এর জন্য **230 g শুকনা চাল ও 130 g শুকনা ডাল** মেপে রান্না করে দুই ভাগ করো। চাল থেকে সাধারণত প্রায় 575–765 g ভাত হতে পারে; পানি/চালভেদে বদলায়। শুকনা চালের allocation-টাই আসল, cooked cup অনুমান করে extra দেবে না। Scale না থাকলে দোকান থেকে মেপে নিয়ে cup একবার calibrate করো। ডালে বেশি পানি দেওয়া যেন শুকনা ডালের পরিমাণ কমানোর বদলি না হয়।
 
-এই portion plan আনুমানিক **2,050–2,300 kcal/day**, প্রায় **80–105 g protein/day** দিতে পারে; fish/chicken না থাকা দিনে সাধারণত নিচের দিকে। Ready-made roti-এর nutrition label ও রান্নার প্রকৃত yield ছাড়া এটা exact calorie calculation নয়। Soy/nuts বাদ দেওয়ার পর আগের বেশি protein estimate রাখা হয়নি; এটা budget-conscious beginner plan।
+Friday-তেও একই meal portions থাকবে। Fish/chicken থাকা দিনেও daily rice, dal ও breakfast eggs বাদ যাবে না। সপ্তাহে meat/fish সীমিত রাখা হয়েছে নির্ধারিত grocery budget-এ রুটি, ফল, সবজি ও দুধ রাখতে।
 
-ডাল এতটা খাওয়ার অভ্যাস না থাকলে প্রথম 3 দিন 80 g/day, পরের 4 দিন 100 g/day, তারপর সহ্য হলে 130 g/day। প্রয়োজন হলে সেই শুরুর দিনগুলোতে আরেকটি সেদ্ধ ডিম বা সামান্য বেশি ভাত নাও; বাড়তি কেনাকাটা reserve থেকে হিসাব করো। অস্বস্তি হলে ধীরে বাড়াবে, জোর করবে না।
+আনুমানিক **2,050–2,300 kcal/day**, প্রায় **80–105 g protein/day**; fish/chicken না থাকা দিনে সাধারণত নিচের দিকে। Actual roti label ও রান্নার yield অনুযায়ী বদলাবে।
+
+ডাল এতটা খাওয়ার অভ্যাস না থাকলে প্রথম 3 দিন 80 g/day, পরের 4 দিন 100 g/day, তারপর সহ্য হলে 130 g/day। শুরুর দিনগুলোতে প্রয়োজন হলে আরেকটি সেদ্ধ ডিম বা সামান্য বেশি ভাত নাও; বাড়তি কেনাকাটা reserve থেকে হিসাব করো। অস্বস্তি হলে ধীরে বাড়াবে, জোর করবে না।
 
 ## 3. এই ছয়টি সবজি কিনবে — নাম, পরিমাণ, খরচ
 
@@ -161,15 +139,12 @@ Delivery fee free ধরে নেওয়া হয়নি: যা লাগবে
 
 **Checkout মোট বেশি হলে:** অন্য খাবার কমিয়ে অজান্তে under-eat করবে না। আগে delivery trip কমানো/collection, cheaper listed backup roti এবং একই ধরনের সবজির actual quote দেখো। প্রয়োজন হলে chicken-এর 1 kg-এর বদলে আরও 1 kg পাঙাশ নিলে এই linked prices-এ **৳70 বাঁচে**; Sunday-র chicken portion তখন fish হবে। তারপরও না মিললে এই নির্দিষ্ট basket ঐ দামে ৳6,000-এ সম্ভব নয়—খরচটা সত্যি লিখবে, মিথ্যা ৳6,000 total নয়।
 
-## 7. রান্না, সংরক্ষণ ও ছোট review
+## 7. রান্না ও সংরক্ষণ
 
-- তেল দিনে মোট **15 ml**: breakfast 5 ml, lunch 5 ml, dinner 5 ml। রুটি তেল ছাড়া। মাছ/মুরগি ঝোল করে; ডুবো তেলে নয়।
-- ডাল দিনে 130 g শুকনা মেপে রান্না, পরে অর্ধেক করে ভাগ। অল্প পানি-ঢাকা cooking-এ সবজি রান্না করো; ঝোল/মশলা দিয়ে তেলের পরিমাণ বাড়াবে না।
+- তেল দিনে মোট **15 ml**: breakfast 5 ml, lunch 5 ml, dinner 5 ml। রুটি তেল ছাড়া। ডিম সেদ্ধ সবচেয়ে সহজ; অল্প তেলে করলে সেটাও এই allowance-এর মধ্যে। মাছ/মুরগি ঝোল করে; ডুবো তেলে নয়।
 - November-এ **5টি রবিবার**: chicken 1 kg-কে পাঁচ ভাগে, প্রায় 200 g raw bone-in/meal। **4টি বৃহস্পতিবার**: after-cutting pangas চার ভাগে, প্রায় 250 g raw/meal। হাড় বাদে cooked flesh আলাদা; 200 g bone-in মানে 200 g খাওয়ার meat নয়।
-- Plain milk দিনে মোট 200 ml; চা/কফির দুধ একই allocation। Unsweetened tea/coffee এই shopping budget-এর default।
 - Freezer থাকলেই এই frozen-roti ব্যবস্থা ব্যবহার করবে। মাছ/মুরগি ভাগ করে দ্রুত freeze করো। দুধের packet label-এর opened-storage নির্দেশ মানবে; 1 L খুলে পাঁচ দিন নিরাপদ থাকবে ধরে নিয়ো না—সঙ্গে সঙ্গে ছোট portions freeze করা যায়, fridge-এ thaw করে ব্যবহার করবে।
 - ভাত fresh খাওয়াও। বেঁচে গেলে **1 ঘণ্টার মধ্যে ঠান্ডা করে fridge**, **24 ঘণ্টার মধ্যে** খাওয়া ও একবার ভালোভাবে গরম করা; রাতভর বাইরে থাকা ভাত আবার গরম করে ব্যবহার নয়। [NHS food-safety guidance](https://www.nhs.uk/live-well/eat-well/food-types/starchy-foods-and-carbohydrates/)
-- প্রায় দুই সপ্তাহ একই portions মেনে ওজন/কোমরের trend দেখবে। কমছে ও শরীর ভালো থাকলে একই plan। Persistent excessive hunger, dizziness বা recovery খারাপ হলে আরও খাবার কাটবে না; intake ও health review করবে।
 - Milk ও greens রাখো: এই খরচে প্রতিটি micronutrient target পূরণ হচ্ছে বলে দাবি করা যায় না। নতুন অভিযোগ/health condition হলে plan বদলাতে হবে।
 
-Portion estimates-এর ভিত্তি: [Bangladesh Food Composition Table](https://www.fao.org/fileadmin/templates/food_composition/documents/FCT_10_2_14_final_version.pdf)। Fruit/vegetable variety ও whole-grain preference: [WHO healthy diet](https://www.who.int/en/news-room/fact-sheets/detail/healthy-diet)। Workout আলাদা রাখা হয়েছে: [EXERCISE-PLAN.md](EXERCISE-PLAN.md)।
+Portion estimates-এর ভিত্তি: [Bangladesh Food Composition Table](https://www.fao.org/fileadmin/templates/food_composition/documents/FCT_10_2_14_final_version.pdf)। Fruit/vegetable variety ও whole-grain preference: [WHO healthy diet](https://www.who.int/en/news-room/fact-sheets/detail/healthy-diet)। সব fitness file: [README.md](README.md)।

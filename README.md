@@ -37,9 +37,9 @@ A complete one-year AI/ML learning framework covering mathematics, Python, class
 
 ## Health & Fitness
 
-### [November 2026 — food and fitness](Fitness/2026-11/README.md)
+### [Fitness](Fitness/README.md)
 
-Current starting weight: **98 kg**; goal **75 kg**, with a conditional planning target of **September 2027** at an average 0.5 kg/week ([milestones](Fitness/2026-11/README.md#target-timeline)). A **৳6,000/month** grocery plan in one [cooking and shopping guide](Fitness/2026-11/COOKING-INSTRUCTIONS.md), with named ready-made roti, vegetables and fruits, linked shop prices, and a separate [six-day exercise routine](Fitness/2026-11/EXERCISE-PLAN.md) with Friday recovery. This supersedes the older [fitness snapshot](Fitness/Fit_Habbit.md) for November.
+Personal profile and target timeline, a cooking/shopping guide, and exercise plans.
 
 ## Repository Philosophy
 
