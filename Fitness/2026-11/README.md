@@ -33,4 +33,4 @@ For comparison, an average **0.75 kg/week** would put the goal around **June 202
 
 Review consistent morning-weight averages and waist trend after two weeks, then reassess monthly. Adjust the forecast from actual progress; do not cut food aggressively to meet a calendar date. No separate tracker file is required.
 
-This folder supersedes the older [fitness snapshot](../../Fit_Habbit.md).
+This folder supersedes the older [fitness snapshot](../Fit_Habbit.md).

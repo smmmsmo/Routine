@@ -1,6 +1,6 @@
 # Fitness & Diet Plan
 
-> **Profile and target timeline updated 1 November 2026.** Use [November 2026 — Food & Fitness](Fitness/2026-11/README.md) for current meals and training. The workout, nutrition and shopping sections below the timeline are an older snapshot; the November plan supersedes those instructions.
+> **Profile and target timeline updated 1 November 2026.** Use [November 2026 — Food & Fitness](2026-11/README.md) for current meals and training. The workout, nutrition and shopping sections below the timeline are an older snapshot; the November plan supersedes those instructions.
 
 ## Profile
 
@@ -25,7 +25,7 @@
 
 The working target is **September 2027**, about **46 weeks from 1 November 2026**, conditional on averaging **0.5 kg/week**. This replaces the previous timeline based on approximately 102 kg.
 
-The single current milestone table is in [Target timeline](Fitness/2026-11/README.md#target-timeline). Rate-based scenarios span roughly June–December 2027 at averages of 0.75–0.4 kg/week; slower progress or plateaus can extend that. No exact date or visible body change is guaranteed.
+The single current milestone table is in [Target timeline](2026-11/README.md#target-timeline). Rate-based scenarios span roughly June–December 2027 at averages of 0.75–0.4 kg/week; slower progress or plateaus can extend that. No exact date or visible body change is guaranteed.
 
 Compare consistent weekly morning-weight averages and waist measurements; revise the forecast using actual progress rather than treating a straight-line calculation as a promise.
 
