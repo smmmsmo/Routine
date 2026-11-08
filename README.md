@@ -37,9 +37,9 @@ A complete one-year AI/ML learning framework covering mathematics, Python, class
 
 ## Health & Fitness
 
-### [Fitness](Fitness/README.md)
+### [Fitness](Fitness/)
 
-Personal profile and target timeline, a cooking/shopping guide, and exercise plans.
+Current workout, healthy-eating, and sugar/drinks guides. Previous fitness notes and plans are preserved in [Fitness/Legacy](Fitness/Legacy/).
 
 ## Repository Philosophy
 
