@@ -39,11 +39,11 @@
 |---:|---|---|
 | 1 | **Go downstairs from home** | **Descend 7 floors** slowly, holding the handrail |
 | 2 | **Normal outdoor walk** | **20–25 min** at a comfortable natural pace; no fast walking or running |
-| 3 | **Return home by stairs** | **Climb 7 floors**, at a controlled pace, taking short pauses when needed |
+| 3 | **Return home by stairs** | **Climb 7 floors** at your comfortable pace (typically **2–4 min** for you) |
 
 **iPhone tracking:** Keep the phone with you; use Apple Health to see **Steps** (and **Flights Climbed**, when recorded). Judge the walk mainly by **time**, not by chasing a fixed step count.
 
-**Timing:** The full sequence aims for about 30 minutes; stair time varies. Shorten the flat walk slightly or allow a few extra minutes rather than rushing on stairs. If 7 floors is too difficult initially, build up gradually using the progression below. Stop if knee pain, dizziness or unusual breathlessness occurs.
+**Timing:** Your seven-floor ascent usually takes **2–4 minutes**. With the descent and 20–25-minute walk, the total should be around 30 minutes, depending on descent time. Keep the full 7-floor route at your comfortable pace; adjust walking minutes to fit the 30-minute goal rather than rushing on stairs. Stop if knee pain, dizziness or unusual breathlessness occurs.
 
 ## Monday — Upper Body & Posture (30 min)
 
@@ -87,9 +87,9 @@
 |---:|---|---|
 | 1 | **Go downstairs from home** | **Descend 7 floors** carefully, using the handrail |
 | 2 | **Normal outdoor walk** | **20–25 min** at a comfortable natural pace; track steps with iPhone |
-| 3 | **Return home by stairs** | **Climb 7 floors** slowly and steadily; pause between floors if needed |
+| 3 | **Return home by stairs** | **Climb 7 floors** at your comfortable pace (typically **2–4 min** for you) |
 
-**Goal:** Repeat Sunday's simple stair–walk–stair routine, not a faster or harder version. Keep a safe pace on the stairs. For the first weeks, use fewer floors if needed and progress toward all 7 comfortably.
+**Goal:** Repeat Sunday's full seven-floor down → normal walk → seven-floor up routine. Since you already climb seven floors in 2–4 minutes comfortably, there is no need for a reduced-floor beginner phase. Keep the pace controlled.
 
 ## Thursday — Full-Body Strength (30 min)
 
@@ -125,16 +125,15 @@ For **Saturday, Monday, Tuesday and Thursday**, use **one 60-second slot per exe
 | **5–6** | 35 sec | 25 sec | Harder versions or light resistance |
 | **7–8** | 40 sec | 20 sec | Progress resistance/pace only when form is solid |
 
-**Sunday/Wednesday stair progression toward the full 7-floor route:**
+**Sunday/Wednesday walking routine (from week 1 onward):**
 
-| Weeks | Walk | Stair target |
-|---|---|---|
-| **1–2** | Normal pace, 20–25 min | Up to 1–2 floors down/up if new to stairs |
-| **3–4** | Same normal pace | Up to 3–4 floors down/up |
-| **5–6** | Same normal pace | Up to 5–6 floors down/up |
-| **7–8** | Same normal pace | Full **7 floors down → walk → 7 floors up** if comfortable |
+| Order | Exercise | Target |
+|---:|---|---|
+| 1 | Stairs down | **7 floors** at a safe, comfortable pace |
+| 2 | Outdoor walk | **20–25 minutes** at normal pace; count steps with iPhone |
+| 3 | Stairs up | **7 floors**, typically **2–4 minutes** at your usual pace |
 
-**Note:** If already comfortable with the full seven-floor route, no need to artificially limit it. Start and finish with stairs as planned; the gradual targets are only for building up safely. Do not hurry, jump steps or push through joint pain.
+**Note:** You report no difficulty with the full climb, so a floor-by-floor buildup is unnecessary. Keep the 7-floor route consistent rather than adding speed or extra flights. Take the stairs carefully and allow flexibility if fatigued or sore.
 
 **Progression rule:** Start at a level you can do with control, and repeat a stage if needed. Stair progression is a guide, not a deadline. For alternating exercises, share the work interval between sides; start the next round on the opposite side.
 
