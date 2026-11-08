@@ -6,15 +6,15 @@
 
 ## 1. Weekly Schedule
 
-| Day | Night session | Duration | Done |
-|---|---|---:|:---:|
-| Saturday | **A — Legs & Glutes** | 30 min | [ ] |
-| Sunday | **Power Walk 1 — Brisk / Hills** | 30 min | [ ] |
-| Monday | **B — Upper Body & Posture** | 30 min | [ ] |
-| Tuesday | **C — Full-Body HIIT** | 30 min | [ ] |
-| Wednesday | **Power Walk 2 — Brisk / Hills** | 30 min | [ ] |
-| Thursday | **D — Full-Body Strength** | 30 min | [ ] |
-| **Friday** | **Recovery — no hard training** | — | [ ] |
+| Day | Night session | Duration |
+|---|---|---:|
+| Saturday | **A — Legs & Glutes** | 30 min |
+| Sunday | **Power Walk 1 — Brisk / Hills** | 30 min |
+| Monday | **B — Upper Body & Posture** | 30 min |
+| Tuesday | **C — Full-Body HIIT** | 30 min |
+| Wednesday | **Power Walk 2 — Brisk / Hills** | 30 min |
+| Thursday | **D — Full-Body Strength** | 30 min |
+| **Friday** | **Recovery — no hard training** | — |
 
 ## 2. Format for All Four Hard Nights (30 Minutes)
 
@@ -105,12 +105,5 @@
 - **Recovery:** Sleep sufficiently; leave **Friday fully off**. Mild soreness can be normal; sharp pain is not.
 - **Safety:** Stop for chest pain, dizziness/faintness, or unusual severe breathlessness. If new to vigorous workouts, begin at a manageable effort and increase gradually.
 
-## 6. Weekly Check-In
-
-- **Workouts completed:** __ / 4
-- **Power walks completed:** __ / 2
-- **Current phase:** Weeks __
-- **Waist (every 2 weeks):** __ cm
-- **Progress:** Better form / more reps / heavier backpack / faster walk: __
 
 **Useful references:** [CDC — Adult activity guidelines](https://www.cdc.gov/physical-activity-basics/guidelines/adults.html) · [NHS — Strength exercises](https://www.nhs.uk/live-well/exercise/strength-exercises/) · [NIDDK — ED and lifestyle treatment](https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction/treatment).
