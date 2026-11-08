@@ -18,7 +18,7 @@
 
 ## Saturday — Legs & Glutes (45 min)
 
-**5 min preparation:** ~1–2 min brisk march + ~1–2 min hip hinges/leg swings + ~1–2 min easy squats.; warm up the remaining time at an easy pace.
+**5 min preparation:** 2 min brisk march + 1 min hip hinges + 1 min leg swings + 1 min easy squats.
 
 **35 min main circuit:** Do the six movements below **in order, four rounds**. Each movement gets a **75-second work/rest slot**; use the ratios below. Rest 90 seconds between the first three rounds. **Six moves × four rounds × 75 seconds = 30 min; three 90-second between-round breaks = 4.5 min.**
 
@@ -47,7 +47,7 @@
 
 ## Monday — Upper Body & Posture (45 min)
 
-**5 min preparation:** ~1–2 min brisk march + ~1–2 min shoulder/arm circles + ~1–2 min easy wall push-ups.; warm up the remaining time at an easy pace.
+**5 min preparation:** 2 min brisk march + 1 min shoulder circles + 1 min arm swings + 1 min easy wall push-ups.
 
 **35 min main circuit:** Six movements **× four rounds**. Each movement gets a **75-second work/rest slot**. **Six moves × four rounds × 75 seconds = 30 min; three 90-second between-round breaks = 4.5 min.**
 
@@ -64,7 +64,7 @@
 
 ## Tuesday — Full-Body HIIT (45 min)
 
-**5 min preparation:** ~1–2 min fast march + ~1–2 min easy lunges/hip movement + ~1–2 min slow mountain climbers.; warm up the remaining time at an easy pace.
+**5 min preparation:** 2 min fast march + 1 min hip mobility + 1 min easy lunges + 1 min slow mountain climbers.
 
 **35 min main circuit:** Six movements **× four rounds**. Each movement gets a **75-second work/rest slot**. Work hard in the effort interval; keep landings controlled. **Six moves × four rounds × 75 seconds = 30 min; three 90-second between-round breaks = 4.5 min.**
 
@@ -87,13 +87,13 @@
 |---:|---|---|
 | 1 | **Go downstairs from home** | **Descend 7 floors** carefully, using the handrail |
 | 2 | **Normal outdoor walk** | **about 37–39 min** at a comfortable natural pace; track steps with iPhone |
-| 3 | **Return home by stairs** | **Climb 7 floors** at your comfortable pace (typically **2–4 min** for you) |
+| 3 | **Return home by stairs** | **Climb 7 floors** at your comfortable pace (typically **3–4 min** for you) |
 
-**Goal:** Repeat Sunday's full seven-floor down → normal walk → seven-floor up routine. Since you already climb seven floors in 2–4 minutes comfortably, there is no need for a reduced-floor beginner phase. Keep the pace controlled. **Estimated entire-session steps: ~3,200–4,600**; count with iPhone Health (Steps, optionally Flights Climbed). This estimate is a reference, not a minimum target.
+**Goal:** Repeat Sunday's full seven-floor down → normal walk → seven-floor up routine. Since you already climb seven floors in 3–4 minutes comfortably, there is no need for a reduced-floor beginner phase. Keep the pace controlled. **Estimated entire-session steps: ~3,200–4,600**; count with iPhone Health (Steps, optionally Flights Climbed). This estimate is a reference, not a minimum target.
 
 ## Thursday — Full-Body Strength (45 min)
 
-**5 min preparation:** ~1–2 min brisk march + ~1–2 min arm circles/hip hinge + ~1–2 min easy bodyweight squats.; warm up the remaining time at an easy pace.
+**5 min preparation:** 2 min brisk march + 1 min arm circles + 1 min hip hinges + 1 min easy squats.
 
 **35 min main circuit:** Six movements **× four rounds**. Each movement gets a **75-second work/rest slot**. **Six moves × four rounds × 75 seconds = 30 min; three 90-second between-round breaks = 4.5 min.**
 
