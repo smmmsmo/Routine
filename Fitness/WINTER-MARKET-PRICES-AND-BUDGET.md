@@ -64,46 +64,54 @@ Fruit reporting: [Dhaka Post, Karwan Bazar survey, 6 Nov](https://www.dhakapost.
 Market references: [Ittefaq summary of 6 Nov markets](https://agronewstoday.com/article/kawran-bazar-bean-cauliflower-prices-fall-eggs-cheaper) · [Daily Sun, 7 Nov](https://www.daily-sun.com/business/907653) · [Dhaka Tribune, 6 Nov](https://www.dhakatribune.com/bangladesh/agriculture/423876/winter-vegetables-bring-relief-fish-meat-and-egg).  
 Live/official price check: [Department of Agricultural Marketing](https://market.dam.gov.bd/market_daily_price_report/?L=E).
 
-## 4. Monthly Shopping Basket — 1 Person / 30 Days
+## 4. Updated Monthly Food Budget — 98 kg / 3 Meals Per Day
 
-The **budget below is a constructed example using representative planning prices**, not a single dated store quotation. Use it as a starting budget and **don't treat the quantities as compulsory intake**.
+**This budget matches the revised [separate seven-day menu](WINTER-7-DAY-MEAL-ROUTINE.md) better than the earlier starter basket.** It is a **shopping estimate**, not a guarantee of meeting a specific protein amount or exact calorie target. Amounts and costs are approximations for one person/30 days.
 
-| Item | Amount for 30 days | Budget rate | Estimated cost |
+| Item | Revised monthly amount | Planning rate | Estimated amount |
 |---|---:|---:|---:|
-| চাল (rice) | 7 kg | ৳60/kg | **৳420** |
-| আটা (flour) | 2 kg | ৳70/kg | **৳140** |
-| ডিম | 60 | ৳11 each | **৳660** |
-| Broiler chicken | 4 kg | ৳180/kg | **৳720** |
-| Fish (mixed) | 3 kg | ৳220/kg | **৳660** |
-| Lentils | 2 kg | ৳130/kg | **৳260** |
-| Chickpeas | 1.2 kg | ৳110/kg | **৳132** |
-| Seasonal vegetables | 15 kg | avg ৳55/kg | **৳825** |
-| Fruits | 7 kg | avg ৳90/kg | **৳630** |
-| Milk / equivalent dairy | 6 L | avg ৳115/L | **৳690** |
-| Potato | 2.5 kg | ৳30/kg | **৳75** |
-| Cooking oil | 1 L | ৳205/L | **৳205** |
-| Onion, spices, salt etc. | mixed | allowance | **৳600** |
-| Peanuts / nuts | 500 g | allowance | **৳120** |
-| **TOTAL (example)** | | | **৳6,137** |
+| Rice (dry) | 5 kg | ৳60/kg | **৳300** |
+| Atta | 3.5 kg | ৳70/kg | **৳245** |
+| Eggs | 78 eggs (about 18/wk) | ৳12/egg | **৳936** |
+| Broiler chicken (mostly whole/bone-in) | 9 kg | ৳180/kg | **৳1,620** |
+| Fish (whole/bone-in mixed) | 8 kg | ৳220/kg | **৳1,760** |
+| Lentils (dry) | 1.7 kg | ৳130/kg | **৳221** |
+| Chickpeas (dry) | 1.5 kg | ৳110/kg | **৳165** |
+| Soy chunks (dry) | 0.9 kg | **৳320/kg assumed** | **৳288** |
+| Seasonal vegetables | 16 kg | ৳55/kg average | **৳880** |
+| Fruit | 7 kg | ৳90/kg average | **৳630** |
+| Plain milk | 8 L | ৳115/L | **৳920** |
+| Plain unsweetened yogurt | 2 kg | **৳180/kg assumed** | **৳360** |
+| Cooking oil | 1.2 L | ৳205/L | **৳246** |
+| Onion, spices, salt etc. | Monthly mixed allowance | Assumed | **৳750** |
+| Peanuts/optional extras | 0.5 kg or swap | Allowance | **৳120** |
+| **Estimated monthly total** | | | **৳9,441** |
 
-**Practical monthly reserve:** **৳6,500–7,500** for this basket, with a useful broader range of **~৳5,800–7,600** depending on market, quantities and substitutions. This excludes cooking gas, delivery, restaurants, waste, and possible purchases such as yogurt outside the dairy allowance.
+**Budget recommendation:** Set aside **~৳9,500–11,000/month** initially for this more protein-rich three-meal plan. This is a **constructed forecast**, not a live retailer quote. Soy/yogurt amounts are planning assumptions (local price not yet verified); boneless meat may cost more than the whole-chicken/fish rates used here. Cooking gas, food waste, delivery and eating out are excluded.
 
-**Important protein caveat:** This **low-cost sample basket is not guaranteed to provide 1.4–1.6 g/kg/day protein** for every body weight. If you require more protein, budget for extra eggs/chicken/fish/milk/soy foods after calculating your actual need. Similarly, 7 kg monthly uncooked rice is a *shopping estimate*, not a recommendation to eat all of it if you need less.
+**Why did the budget rise?** At a reported **98 kg** and with 4 hard workouts weekly, the revised menu uses **larger edible protein portions**. The older **৳6,137/month** basket was a lighter plan and has been superseded; it was **not a reliable shopping budget** for this menu. Prices above still use the **November 6–7, 2026** Dhaka price snapshot for priced commodities, with clearly labelled assumptions where no source quote exists.
 
-## 5. Weekly Shopping List
+**Edible vs purchased weight:** ~1.3 kg/week edible boneless chicken may require roughly ~2–2.3 kg/week whole/bone-in, and ~1.1 kg/week edible fish may require ~1.6–2.2 kg/week whole fish. Yields vary by cut and species, so actual purchases and costs can change.
 
-| Item | Typical weekly buy |
-|---|---|
-| Eggs | ~14 (two/day) |
-| Broiler chicken | ~1 kg |
-| Fish | ~700–750 g |
-| Lentils + chickpeas (dry total) | ~750–850 g |
-| Mixed seasonal vegetables | ~3.5–4 kg |
-| Whole fruit | ~1.5–1.8 kg |
-| Milk or equivalent | ~1.5 L |
-| Rice, atta, spices, oil | Based on actual use and pantry stock |
+**Do not force food quantities:** If some meals are too large or total calories exceed your needs, revise portions with your height, age and activity context rather than eating every item just because it is listed.
 
-**Purchase strategy:** Buy vegetables/fruit in 2 smaller batches per week; freeze appropriate chicken/fish portions promptly. **Don't repurchase staples already in your pantry.** Spend money first on eggs, lentils, affordable fish/chicken and seasonal produce—not on exotic fruit or supplements.
+## 5. Weekly Shopping List — Revised for 98 kg
+
+| Item | Typical weekly buy | Notes |
+|---|---|---|
+| Eggs | **18** | Three-meal plan, mostly breakfast |
+| Broiler chicken | **~2–2.3 kg whole/bone-in**, or **~1.3 kg raw edible boneless** | Buying weight depends on bones/trim |
+| Fish | **~1.6–2.2 kg whole/bone-in**, or **~1.1 kg edible raw** | Includes head/bone yield |
+| Soy chunks (dry) | **~200 g** | Sunday/Monday/Thursday dinners |
+| Lentils (dry) | **~300–450 g** | Dal/khichuri |
+| Chickpeas (dry) | **~300–400 g** | Cooked alongside breakfasts/dinner |
+| Seasonal vegetables | **~3.5–4 kg** | Buy fresh twice weekly |
+| Whole fruit | **~1.1–1.5 kg** | Integrated into regular meals |
+| Milk | **~1.75 L** | ~250 mL per morning |
+| Plain yogurt | **~350–500 g** | With selected breakfasts |
+| Rice/atta/oil/spices | According to actual use | Use existing pantry stock |
+
+**Budget first for** eggs, chicken/fish, lentils/chickpeas/soy and seasonal vegetables. Buy expensive fruit only if you genuinely want it; it is not a fitness requirement. Frozen meat/fish should be stored safely.
 
 ## 6. Three-Month Seasonal Strategy
 
@@ -113,7 +121,7 @@ The **budget below is a constructed example using representative planning prices
 | **December 2026** | Cabbage, cauliflower, beans, radish, leafy greens, pumpkin and reasonably priced seasonal fruit | Prices not yet known; compare weekly |
 | **January 2027** | Leafy greens, radish, carrots when affordable, cabbage, cauliflower, beans, কুল/বরই when in season | Prices not yet known; compare weekly |
 
-**Student budget rule:** If a vegetable becomes expensive, swap within its category instead of removing vegetables. Prefer **৳6.5–7.5k/month** as a flexible starting budget, adjusting for body weight, calorie needs and availability.
+**Student budget rule:** If a vegetable becomes expensive, swap within its category instead of removing vegetables. For the current **98 kg three-meal menu**, a more realistic initial allowance is **~৳9.5–11k/month**, adjustable for prices, portions and your actual calorie/protein needs.
 
 ## 7. Food and Health Rules Linked to the Budget
 
