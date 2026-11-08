@@ -1,7 +1,7 @@
 # Winter 7-Day Meal Routine — 98 kg | Three Meals a Day
 
 **Period:** November 2026 – January 2027  
-**Current weight:** **98 kg** | **Height (provisional):** **5′10″–5′11″ (~178–180 cm; midpoint ~179 cm)** | **Meals:** **3 only — Breakfast, Lunch, Dinner** | **Goal:** Fat loss while maintaining/building muscle  
+**Current weight:** **98 kg** | **Height (provisional):** **181–183 cm (midpoint 182 cm; about 5′11¼″–6′0″)** | **Meals:** **3 only — Breakfast, Lunch, Dinner** | **Goal:** Fat loss while maintaining/building muscle  
 **Training:** [45-Minute Night Exercise Plan](NIGHT-WORKOUT-PLAN.md) — four hard nights, two walk + stairs nights, Friday recovery.  
 **Market prices:** [Winter Market & Budget](WINTER-MARKET-PRICES-AND-BUDGET.md) · **Sugar/drinks:** [Tea, Coffee & Drinks](SUGAR-TEA-COFFEE-DRINKS.md).
 
@@ -239,4 +239,4 @@ Buy by **season + price**, not by a rigid vegetable name. A cheaper vegetable ca
 4. [CDC — Steps for Losing Weight](https://www.cdc.gov/healthy-weight-growth/losing-weight/)
 5. [Winter Market Prices & Budget — Bangladesh Sources](WINTER-MARKET-PRICES-AND-BUDGET.md)
 
-*Updated 8 November 2026. This plan is designed around your stated 98 kg current weight and exactly three meals; height is provisionally 5′10″–5′11″; age has not been supplied.*
+*Updated 8 November 2026. This plan is designed around your stated 98 kg current weight and exactly three meals; height is provisionally 181–183 cm; age has not been supplied.*
