@@ -1,7 +1,7 @@
 # Night Exercise Plan — Six Organized Days
 
 **Goal:** Fat loss, stronger muscles, better posture, stamina, cardiovascular and sexual health.  
-**Schedule:** 4 challenging workouts + 2 power walks + **Friday recovery**.  
+**Schedule:** 4 challenging workouts + 2 normal walk-and-stairs sessions + **Friday recovery**.  
 **Time:** **30 minutes at night only**. **Equipment:** Mat and optional securely closed backpack with books.  
 
 ## Weekly Overview
@@ -9,10 +9,10 @@
 | Day | Focus | Session | Duration |
 |---|---|---|---:|
 | **Saturday** | Legs & glutes | Strength A | 30 min |
-| **Sunday** | Comfortable walking + stair climbing | Walk & Stairs A | 30 min |
+| **Sunday** | 7 floors down → normal walk → 7 floors up | Walk & Stairs A | 30 min |
 | **Monday** | Upper body & posture | Strength B | 30 min |
 | **Tuesday** | Conditioning & fat-loss support | Full-Body HIIT | 30 min |
-| **Wednesday** | Comfortable walking + stair climbing | Walk & Stairs B | 30 min |
+| **Wednesday** | 7 floors down → normal walk → 7 floors up | Walk & Stairs B | 30 min |
 | **Thursday** | Whole-body muscle building | Strength C | 30 min |
 | **Friday** | **Full recovery** | No hard training | — |
 
@@ -33,15 +33,17 @@
 
 **3 min finish:** Slow march + gentle quad, glute and calf stretches.
 
-## Sunday — Normal Walk + Stairs A (30 min)
+## Sunday — 7 Floors Down → Normal Walk → 7 Floors Up (~30 min)
 
-| Time | Activity |
-|---|---|
-| **0–5 min** | Easy normal walking to warm up |
-| **5–20/25 min** | Comfortable, steady walking at a natural pace — **no fast walking or running** |
-| **Final 5–10 min** | Stair climbing: go up only as many floors as comfortable; descend slowly if needed |
+| Order | Activity | Target |
+|---:|---|---|
+| 1 | **Go downstairs from home** | **Descend 7 floors** slowly, holding the handrail |
+| 2 | **Normal outdoor walk** | **20–25 min** at a comfortable natural pace; no fast walking or running |
+| 3 | **Return home by stairs** | **Climb 7 floors**, at a controlled pace, taking short pauses when needed |
 
-**Goal:** A comfortable public walk plus a short, more challenging stair section. Walk normally; there is no need to speed up or draw attention. If stairs take longer than expected, shorten the flat walk to stay near 30 minutes.
+**iPhone tracking:** Keep the phone with you; use Apple Health to see **Steps** (and **Flights Climbed**, when recorded). Judge the walk mainly by **time**, not by chasing a fixed step count.
+
+**Timing:** The full sequence aims for about 30 minutes; stair time varies. Shorten the flat walk slightly or allow a few extra minutes rather than rushing on stairs. If 7 floors is too difficult initially, build up gradually using the progression below. Stop if knee pain, dizziness or unusual breathlessness occurs.
 
 ## Monday — Upper Body & Posture (30 min)
 
@@ -79,15 +81,15 @@
 
 **Joint-friendly option:** Use step-based variations instead of jumping if you need them; intensity can still be challenging.
 
-## Wednesday — Normal Walk + Stairs B (30 min)
+## Wednesday — 7 Floors Down → Normal Walk → 7 Floors Up (~30 min)
 
-| Time | Activity |
-|---|---|
-| **0–5 min** | Easy normal walking to warm up |
-| **5–20/25 min** | Comfortable, steady walking at a natural pace — **no fast walking or running** |
-| **Final 5–10 min** | Stair climbing at a calm, controlled pace; stop or take the lift when needed |
+| Order | Activity | Target |
+|---:|---|---|
+| 1 | **Go downstairs from home** | **Descend 7 floors** carefully, using the handrail |
+| 2 | **Normal outdoor walk** | **20–25 min** at a comfortable natural pace; track steps with iPhone |
+| 3 | **Return home by stairs** | **Climb 7 floors** slowly and steadily; pause between floors if needed |
 
-**Goal:** Consistent walking without feeling self-conscious in public, with stairs providing the challenging part. Use a well-lit route and a safe stairwell. Wednesday does not have to be harder than Sunday.
+**Goal:** Repeat Sunday's simple stair–walk–stair routine, not a faster or harder version. Keep a safe pace on the stairs. For the first weeks, use fewer floors if needed and progress toward all 7 comfortably.
 
 ## Thursday — Full-Body Strength (30 min)
 
@@ -123,16 +125,16 @@ For **Saturday, Monday, Tuesday and Thursday**, use **one 60-second slot per exe
 | **5–6** | 35 sec | 25 sec | Harder versions or light resistance |
 | **7–8** | 40 sec | 20 sec | Progress resistance/pace only when form is solid |
 
-**Walking + stairs progression (Sunday + Wednesday):**
+**Sunday/Wednesday stair progression toward the full 7-floor route:**
 
-| Weeks | Walking | Stair-climbing target |
+| Weeks | Walk | Stair target |
 |---|---|---|
-| **1–2** | Comfortable, normal pace | 1–2 floors up |
-| **3–4** | Same comfortable pace | 3–4 floors up |
-| **5–6** | Same comfortable pace | 5–6 floors up |
-| **7–8** | Same comfortable pace | Up to 7 floors if fully comfortable |
+| **1–2** | Normal pace, 20–25 min | Up to 1–2 floors down/up if new to stairs |
+| **3–4** | Same normal pace | Up to 3–4 floors down/up |
+| **5–6** | Same normal pace | Up to 5–6 floors down/up |
+| **7–8** | Same normal pace | Full **7 floors down → walk → 7 floors up** if comfortable |
 
-**Stairs vs lift:** You do **not** need to quit using the lift. If you live on an upper floor, consider walking down carefully on the way out and climbing some floors when returning, taking the lift for the rest. Downstairs can be harder on sore knees; use the handrail and take the lift instead if needed. No need to do seven floors up and down repeatedly. Stair climbing is optional on the four hard workout nights, so your legs can recover.
+**Note:** If already comfortable with the full seven-floor route, no need to artificially limit it. Start and finish with stairs as planned; the gradual targets are only for building up safely. Do not hurry, jump steps or push through joint pain.
 
 **Progression rule:** Start at a level you can do with control, and repeat a stage if needed. Stair progression is a guide, not a deadline. For alternating exercises, share the work interval between sides; start the next round on the opposite side.
 
