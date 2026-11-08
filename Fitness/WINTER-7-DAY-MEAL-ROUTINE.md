@@ -1,11 +1,26 @@
 # Winter 7-Day Meal Routine — 98 kg | Three Meals a Day
 
 **Period:** November 2026 – January 2027  
-**Current weight:** **98 kg** | **Height (provisional):** **181–183 cm (midpoint 182 cm; about 5′11¼″–6′0″)** | **Meals:** **3 only — Breakfast, Lunch, Dinner** | **Goal:** Fat loss while maintaining/building muscle  
+**Age:** **24 years** | **Current weight:** **98 kg** | **Height (provisional):** **181–183 cm (midpoint 182 cm; about 5′11¼″–6′0″)** | **Meals:** **3 only — Breakfast, Lunch, Dinner** | **Goal:** Fat loss while maintaining/building muscle  
 **Training:** [45-Minute Night Exercise Plan](NIGHT-WORKOUT-PLAN.md) — four hard nights, two walk + stairs nights, Friday recovery.  
 **Market prices:** [Winter Market & Budget](WINTER-MARKET-PRICES-AND-BUDGET.md) · **Sugar/drinks:** [Tea, Coffee & Drinks](SUGAR-TEA-COFFEE-DRINKS.md).
 
-> **What changed:** Each weekday now has its **own section**. Removed the fourth snack meal completely. Portions are reconsidered for **98 kg**, with protein included at **all three meals**. Height is **estimated**, not confirmed; age and usual activity outside exercise are not yet known, so this is a **structured starting plan**, not a fixed-calorie medical prescription.
+> **What changed:** Each weekday now has its **own section**. Removed the fourth snack meal completely. Portions are reconsidered for **98 kg**, with protein included at **all three meals**. Height is **estimated**, not confirmed; usual activity outside exercise and the sex parameter for calorie prediction are not established, so this is a **structured starting plan**, not a fixed-calorie medical prescription.
+
+## Calorie Estimate — Age 24, 98 kg, Provisional 182 cm Height
+
+**Don't confuse resting metabolism with daily calories.** Using the validated Mifflin–St Jeor equation:
+
+| Calculation | If male | If female |
+|---|---:|---:|
+| **Estimated resting expenditure (BMR/RMR)** | **~2,003 kcal/day** | **~1,837 kcal/day** |
+| **Illustrative maintenance** at 1.35–1.55 activity multiplier | **~2,700–3,100 kcal/day** | **~2,480–2,850 kcal/day** |
+
+The multiplier is a **rough assumption**, not measured. It depends on time spent sitting, walking outside workouts and real workout intensity. These ranges are **not a prescribed intake**. For gradual fat loss, a commonly used starting concept is roughly **300–500 kcal/day below actual maintenance**, but a precise calorie target needs the applicable sex-specific equation, true height and actual activity.
+
+**Practical approach:** Keep the **three-meal structure**, aim for adequate protein and vegetables, and adjust rice, roti, oil and other portions gradually once the maintenance estimate is confirmed. Do not impose an aggressive deficit or cut protein based only on a formula. Current protein guide of **~120–145 g/day** remains an initial target, not a measured nutritional total.
+
+**Sources:** [Mifflin–St Jeor original study (PubMed)](https://pubmed.ncbi.nlm.nih.gov/2305711/) · [NIDDK Body Weight Planner](https://www.niddk.nih.gov/health-information/weight-management/body-weight-planner) · [CDC — Gradual Weight Loss](https://www.cdc.gov/healthy-weight-growth/losing-weight/).
 
 ## 1. Daily Targets — Starting Framework
 
@@ -194,7 +209,7 @@
 - If working out long after lunch, adjust the **timing** of lunch/dinner to fit digestion and comfort. It's okay to eat the evening meal after training.
 - Fruit, bananas, milk, yogurt and chickpeas are **parts of breakfast or the other two meals**, not extra scheduled meals.
 - Protein does **not** require expensive beef, mutton, supplements or protein powder.
-- For fat loss, use a **moderate, sustainable calorie deficit**. Weight of 98 kg **alone cannot establish calorie needs**, healthy target weight or ideal rice portions; the provisional height needs confirmation; age and daily activity are still relevant.
+- For fat loss, use a **moderate, sustainable calorie deficit**. Weight of 98 kg **alone cannot establish calorie needs**, healthy target weight or ideal rice portions; the provisional height needs confirmation; daily non-workout activity and sex-specific equation choice still affect the estimate.
 - Sleep adequately. Keep regular food intake; don't try to out-exercise a highly restrictive diet.
 
 ## 10. Weekly Shopping List — For This 98 kg Plan
@@ -239,4 +254,4 @@ Buy by **season + price**, not by a rigid vegetable name. A cheaper vegetable ca
 4. [CDC — Steps for Losing Weight](https://www.cdc.gov/healthy-weight-growth/losing-weight/)
 5. [Winter Market Prices & Budget — Bangladesh Sources](WINTER-MARKET-PRICES-AND-BUDGET.md)
 
-*Updated 8 November 2026. This plan is designed around your stated 98 kg current weight and exactly three meals; height is provisionally 181–183 cm; age has not been supplied.*
+*Updated 8 November 2026. Age: 24; weight: 98 kg; height provisionally 181–183 cm; three meals per day. Resting and total energy estimates are provisional.*
