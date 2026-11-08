@@ -1,160 +1,242 @@
-# Winter Seven-Day Meal Routine — Repeat Weekly
-**Period:** November 2026 – January 2027 | **For:** 1 person | **Goal:** Fat loss while supporting muscle, strength, cardiovascular fitness and recovery.  
-**Exercise:** [Night Workout Plan](NIGHT-WORKOUT-PLAN.md) — four hard training nights, two walk+stairs nights, Friday recovery.  
-**Shopping and prices:** [Winter Market Prices & Budget](WINTER-MARKET-PRICES-AND-BUDGET.md). **Drinks:** [Sugar, Tea & Coffee Guide](SUGAR-TEA-COFFEE-DRINKS.md).
+# Winter 7-Day Meal Routine — 98 kg | Three Meals a Day
 
-> A **repeatable sample plan**, not a fixed prescription. It uses Bangladeshi food and low-cost winter produce. Portions and protein should be adjusted once your age, weight, height, activity and calorie needs are known.
+**Period:** November 2026 – January 2027  
+**Current weight:** **98 kg** | **Meals:** **3 only — Breakfast, Lunch, Dinner** | **Goal:** Fat loss while maintaining/building muscle  
+**Training:** [45-Minute Night Exercise Plan](NIGHT-WORKOUT-PLAN.md) — four hard nights, two walk + stairs nights, Friday recovery.  
+**Market prices:** [Winter Market & Budget](WINTER-MARKET-PRICES-AND-BUDGET.md) · **Sugar/drinks:** [Tea, Coffee & Drinks](SUGAR-TEA-COFFEE-DRINKS.md).
 
-## 1. Everyday Portion Guide (Starting Framework)
+> **What changed:** Each weekday now has its **own section**. Removed the fourth snack meal completely. Portions are reconsidered for **98 kg**, with protein included at **all three meals**. Height, age and usual activity outside exercise are not yet known, so this is a **structured starting plan**, not a fixed-calorie medical prescription.
 
-| Food | Practical starting amount | Notes |
-|---|---|---|
-| Whole fruit | **150–250 g/day** | Guava, papaya, banana, seasonal fruit; prefer fruit over juice |
-| Non-starchy vegetables | **250–350 g/day or more** | Build to **≥400 g/day fruit + vegetables combined** |
-| Eggs | **1–2/day** (menu typically uses 2) | If you need variety: swap for yogurt/fish/dal |
-| Meat/fish on those days | **~150–220 g raw bone-in per meal**, as affordable | Actual edible protein varies; more may be needed to meet your protein target |
-| Lentils/chickpeas | **~50–100 g dry combined/day** based on menu | Dry mass expands after cooking; legumes also contain carbohydrate |
-| Milk/yogurt | **~200 mL milk or equivalent** most days | Plain, preferably unsweetened |
-| Rice/roti | **Start with 1–2 cups cooked rice at a main meal, or 1–2 rotis** | Adjust for appetite, size, calorie needs and progress; rice is not forbidden |
-| Cooking oil | Small measured amounts | Avoid over-oiling daily curries |
+## 1. Daily Targets — Starting Framework
 
-**Weight-based protein example (not yet personalized):**
-
-| Body weight | Practical 1.4–1.6 g/kg/day |
-|---:|---:|
-| 60 kg | 84–96 g |
-| 70 kg | 98–112 g |
-| 80 kg | 112–128 g |
-
-The sample plan **does not automatically hit these values** for all bodies, particularly if meat/fish are bone-in. If your daily protein is too low, add affordable egg, chicken, fish, plain dairy, tofu or pulses—alongside realistic calories. The ISSN reference range for many healthy exercising adults is 1.4–2.0 g/kg/day. People with kidney disease require individualized advice.
-
-## 2. Seven-Day Menu — One Week, Four Meals/Day
-
-| Day | Breakfast | Lunch | Snack | Dinner |
-|---|---|---|---|---|
-| **Saturday — Legs & Glutes** | 2 eggs + 2 atta rotis + plain milk/tea | Broiler chicken + cauliflower + rice | Guava + roasted chickpeas | Cabbage + lentils + rice/roti |
-| **Sunday — Walk & Stairs** | 2 eggs + roti + milk/tea | Pangas fish + beans + rice | Banana + plain yogurt | Chickpea curry + vegetables + roti |
-| **Monday — Upper Body** | 2 eggs + roti/oats | Chicken + leafy greens + rice | Ripe papaya + milk | Dal-vegetable khichuri |
-| **Tuesday — Full Body HIIT** | 2 eggs + 2 rotis | Chicken + radish/cauliflower + rice | Banana + peanuts | Chickpeas + cabbage + roti |
-| **Wednesday — Walk & Stairs** | 2 eggs + roti + milk/tea | Tilapia + bottle gourd + rice | Guava + plain yogurt | Lentils + mixed seasonal vegetables + rice |
-| **Thursday — Full-Body Strength** | 2 eggs + 2 rotis | Chicken + potato/carrot + rice | Banana + milk | Vegetable-dal khichuri |
-| **Friday — Recovery** | 2 eggs + roti | Rui or affordable local fish + greens + rice | Papaya/guava + peanuts | Chickpeas or lentils + vegetables + roti |
-
-**Important:** “Fish/chicken” means a proper portion, not a tiny garnish. On dal-only dinners, consider a generous dal portion and/or extra egg/yogurt if protein intake falls short. Seasonal vegetables can be swapped freely when prices change.
-
-## 3. Daily Meal Assembly (No Complicated Counting)
-
-**Breakfast:** 2 eggs + 1–2 medium atta rotis (or oats) + water/unsweetened milk tea. Include some cucumber/vegetables if available.  
-**Lunch:** Rice (usually 1–2 cups cooked as a starting point) + **protein** (fish/chicken/egg/dal) + **generous vegetables**.  
-**Snack:** 1 portion of fruit + chickpeas, nuts, milk or plain yogurt.  
-**Dinner:** Protein + vegetables + moderate rice/roti/khichuri; a normal dinner **after night exercise is fine**.
-
-Aim roughly for **½ a plate non-starchy vegetables, ¼ protein-rich foods and ¼ grains/starchy carbohydrate** as a flexible visual aid. Since lentils and chickpeas contain both protein and carbohydrate, do not assume they are interchangeable gram-for-gram with chicken.
-
-### Food timing around 45-minute night exercise
-
-- **1–2 hours before (if hungry):** a banana, toast, or a little plain yogurt. Don't force food if you've eaten recently.
-- **After:** normal dinner with protein, vegetables and a reasonable carbohydrate portion.
-- **Hydration:** plain water according to thirst, temperature and sweat. Sports/energy drinks are unnecessary for ordinary 45-minute sessions.
-- **Tea and coffee:** fine if they suit you, but avoid sugar-heavy versions and late caffeine if it disrupts sleep.
-
-## 4. Day-by-Day How to Cook & Substitute
-
-### Saturday
-- **Lunch:** Chicken curry with modest oil + cauliflower; serve with rice.
-- **Dinner:** Lentil dal + sautéed cabbage + rice/roti.
-- **Swap:** Cauliflower ↔ beans or radish; guava ↔ papaya.
-
-### Sunday
-- **Lunch:** Pan-cooked or curry-style pangas + beans; rice.
-- **Dinner:** Cooked chickpeas with bottle gourd or cabbage; atta roti.
-- **Swap:** Pangas ↔ tilapia; plain yogurt ↔ milk.
-
-### Monday
-- **Lunch:** Chicken with leafy greens; rice.
-- **Dinner:** Khichuri with lentils, mixed vegetables, rice and controlled oil.
-- **Swap:** Spinach ↔ affordable red amaranth or cabbage.
-
-### Tuesday
-- **Lunch:** Chicken and radish/cauliflower curry; rice.
-- **Dinner:** Chickpea-cabbage curry with roti.
-- **Swap:** Banana ↔ papaya or guava.
-
-### Wednesday
-- **Lunch:** Tilapia + bottle gourd curry; rice.
-- **Dinner:** Lentils and seasonal mixed vegetables; rice.
-- **Swap:** Tilapia ↔ pangas or affordable fish.
-
-### Thursday
-- **Lunch:** Chicken with potato/carrot and plenty of vegetables; rice. Potato is a **starch**, so keep another non-starchy vegetable.
-- **Dinner:** Dal + seasonal vegetable khichuri.
-- **Swap:** Carrot ↔ radish or cauliflower if expensive.
-
-### Friday
-- **Lunch:** Rui or whichever affordable fish is available + leafy greens; rice.
-- **Dinner:** Chickpeas/dal + vegetables + roti.
-- **Recovery:** No need for a crash diet or skipping meals on rest day.
-
-## 5. Weekly Buy + Storage Plan
-
-| What to buy weekly | Starting quantity | Why |
-|---|---:|---|
-| Eggs | ~14 | Breakfasts/protein |
-| Broiler chicken | ~1 kg | Four chicken lunches, portions may need adjustment |
-| Fish | ~700–750 g | Three fish lunches; extra if needed for protein |
-| Lentils + chickpeas (dry) | ~750–850 g combined | Dal/khichuri/curry/snacks |
-| Seasonal vegetables | ~3.5–4 kg | 400 g/day fruit+vegetable goal with fruit |
-| Whole fruit | ~1.5–1.8 kg | One to two fruit portions daily |
-| Milk or equivalent | ~1.5 L | Dairy with breakfasts/snacks |
-| Rice, atta, cooking oil, spices | As needed | Use current pantry stock first |
-
-- Buy **fresh produce twice a week** where possible to avoid spoilage.
-- Refrigerate or freeze cooked/bought fish and chicken properly; reheat thoroughly.
-- Wash produce; keep raw meat/fish utensils separate from ready-to-eat fruit.
-- Batch-cook dal or chickpeas if useful; refrigerate promptly and use safely.
-- If a specific vegetable becomes expensive, **substitute** another seasonal vegetable.
-
-## 6. Month-by-Month Rotations
-
-| Month | Main vegetables | Main fruits | Key idea |
-|---|---|---|---|
-| **Nov 2026** | Radish, cauliflower, cabbage, beans, bottle gourd, papaya | Guava, ripe papaya, banana | Use early-winter value produce |
-| **Dec 2026** | Cauliflower, cabbage, beans, radish, leafy greens, carrot if cheaper | Guava, papaya, banana, locally affordable citrus | Compare fresh market rates before shopping |
-| **Jan 2027** | Leafy greens, radish, carrot, cauliflower, cabbage, beans | Guava, banana, papaya, কুল/বরই if available | Buy seasonally; no advance price promise |
-
-## 7. Monthly Budget & Adjustment Rules
-
-- **Example 30-day grocery basket:** **৳6,137**, detailed in [Market Prices & Budget](WINTER-MARKET-PRICES-AND-BUDGET.md).
-- **Practical student reserve:** **৳6,500–7,500/month**, not including cooking gas and restaurant food.
-- Real food needs can cost **more** if your body weight requires substantially more protein/calories, or if dairy and fish prices rise.
-- Never slash food intake to chase rapid fat loss. Training + adequate recovery + a sustainable energy deficit is the goal.
-- If your exercise performance or recovery worsens, review energy, carbohydrate, protein and sleep rather than blindly eating less.
-
-## 8. Understand the Nutrition Basics
-
-| Idea | What it means in practice |
+| Area | Practical recommendation |
 |---|---|
-| Rice causes fat gain? | **Not by itself**; total food intake and portions matter |
-| Protein = only meat? | Eggs, fish, poultry, lentils, chickpeas, milk and yogurt all contribute |
-| Brown sugar/honey/gur are free? | They still contribute **free sugars** |
-| Fruit contains sugar, should I avoid it? | **No** — choose whole fruit; limit sweetened juices |
-| Dinner after exercise is bad? | **No** — a balanced post-exercise meal is useful |
-| Beef/mutton required for muscle? | **No** — routine can work with eggs, fish, chicken and legumes |
-| Should I buy fat burners/testosterone boosters? | **No** — unnecessary for a basic food-first fitness plan |
+| **Meals** | Exactly **3 normal meals/day**; fruit, milk and yogurt are **part of those meals**, not standalone snacks |
+| **Protein** | **~120–145 g/day** as a *practical initial aim*, spread across 3 meals; adjust to actual needs and food labels |
+| **Research reference** | At **98 kg**, 1.2–1.6 g/kg/day = **118–157 g/day** for healthy active adults focusing on weight reduction. Higher resistance-training targets can sometimes be appropriate, but are not automatically necessary |
+| **Vegetables** | About **400–500 g non-starchy vegetables daily**, divided between lunch and dinner |
+| **Whole fruit** | About **150–200 g/day**, **with breakfast or after lunch/dinner** |
+| **Rice** | Start around **1–1½ cups cooked per rice-based main meal**, then adjust for energy needs |
+| **Atta roti** | Typically **1–2 medium rotis** where the menu says roti (no need to eat both rice and roti at one meal) |
+| **Dairy** | Often **250 mL plain milk at breakfast**, sometimes plain yogurt within breakfast |
+| **Oil/sugar** | Moderate cooking oil; tea/coffee preferably unsweetened; avoid routinely sugary drinks |
+| **Hydration** | Water normally throughout the day, based on thirst and sweating |
 
-### General healthy-eating guardrails
+**Important portions rule:** Fish/chicken amounts below mean **raw, edible, boneless weight**. If you buy **whole, bone-in** fish/chicken, you need a **larger purchase weight** because bones, head and trimming are not edible meat. Dry soy chunks and dry dal/chickpeas are labelled explicitly. Legumes contain **both protein and carbohydrates**.
 
-- **WHO:** ≥400 g whole fruits + vegetables/day, ≥25 g naturally occurring fibre/day for people older than 10, and <5 g salt/day for adults.
-- Prefer regular meals, moderate oil, water, and plenty of affordable produce.
-- Sexually healthy circulation depends on overall cardiovascular health; **no single food guarantees erection strength**.
-- **No checking boxes or tracking worksheets required** — just follow the day and adapt intelligently.
+**Protein reality:** Actual daily totals vary by food cut, cooking method, edible yield, roti size and milk/yogurt brand. The plan is designed to provide protein at each meal; do **not** assume it hits 120–145 g exactly without checking actual portions. If you have kidney disease or a medically restricted diet, seek individualized professional advice before following high-protein targets.
 
-## References
+---
 
-1. [WHO — Healthy diet](https://www.who.int/news-room/fact-sheets/detail/healthy-diet)
-2. [International Society of Sports Nutrition — Protein and exercise](https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/)
-3. [Harvard — Healthy Eating Plate](https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/)
-4. [Dhaka Daily Sun, 7 November 2026 — produce/egg/chicken/fish prices](https://www.daily-sun.com/business/907653)
-5. [Dhaka Post, 6 November 2026 — fruit market report](https://www.dhakapost.com/economy/495853)
+## 2. Saturday — Legs & Glutes (45 min, night)
 
-*This is general nutrition education, not a personal calorie prescription or a medical diet. An exact plan requires body weight, height, age and any relevant health considerations.*
+### Breakfast
+- **3 eggs**, boiled or lightly cooked
+- **2 medium atta rotis**
+- **250 mL plain milk** (or unsweetened milk tea using the milk)
+- **100–120 g cooked chickpeas** (ছোলা)
+- **150 g guava** with the meal
+
+### Lunch
+- **220 g raw boneless chicken** (or appropriate larger bone-in portion), curry with moderate oil
+- **250 g cauliflower / beans**
+- **1–1½ cups cooked rice**
+
+### Dinner — After the workout
+- **180–200 g raw boneless pangas / tilapia**
+- **¾–1 cup cooked lentil dal**
+- **200–250 g cooked cabbage / leafy vegetables**
+- **1 cup cooked rice** or **1 medium roti**
+
+**Easy swap:** Cauliflower ↔ cabbage / radish; fish ↔ chicken if prices differ.
+
+## 3. Sunday — Walk + 7-Floor Stairs (45 min, night)
+
+### Breakfast
+- **2 eggs**
+- **60 g dry oats**, cooked using **250 mL plain milk**
+- **200 g plain unsweetened yogurt**
+- **1 small banana** as part of breakfast
+
+### Lunch
+- **220 g raw edible pangas / tilapia**
+- **250 g শিম / mixed winter vegetables**
+- **1–1½ cups cooked rice**
+
+### Dinner — After walking
+- **65–70 g dry soy chunks** (soak and cook thoroughly)
+- **150 g cooked chickpeas**
+- **200–250 g cooked lauki / cabbage / mixed vegetables**
+- **1–2 medium atta rotis**
+
+**Easy swap:** Soy chunks ↔ a substantial chicken/fish serving if you don't like soy or cannot tolerate legumes well. Dinner legumes can be reduced if they cause bloating; replace the missing protein from another source.
+
+## 4. Monday — Upper Body & Posture (45 min, night)
+
+### Breakfast
+- **3 eggs**
+- **2 medium atta rotis**
+- **250 mL plain milk**
+- **100–150 g cooked chickpeas**
+- **150 g ripe papaya**
+
+### Lunch
+- **220 g raw boneless chicken** with moderate-oil curry
+- **250 g spinach/red amaranth / other affordable greens**
+- **1–1½ cups cooked rice**
+
+### Dinner — After the workout
+- **60–70 g dry soy chunks**, cooked with vegetables
+- **60 g dry lentils** (cook into dal)
+- **200–250 g seasonal vegetables**
+- **1 small cup cooked rice** or **1 medium roti**
+
+**Easy swap:** Soy ↔ 180–220 g edible fish/chicken; greens ↔ cabbage if cheaper.
+
+## 5. Tuesday — Full-Body HIIT (45 min, night)
+
+### Breakfast
+- **2 eggs**
+- **2 medium atta rotis**
+- **250 mL plain milk**
+- **100–120 g cooked chickpeas**
+- **150 g banana / guava** at breakfast
+
+### Lunch
+- **220 g raw boneless chicken**
+- **250 g radish / cauliflower / শিম**
+- **1–1½ cups cooked rice**
+
+### Dinner — After the workout
+- **200 g raw boneless fish**
+- **¾–1 cup cooked lentil dal**
+- **200–250 g mixed seasonal vegetables**
+- **1 cup cooked rice** or **1 roti**
+
+**Easy swap:** Fish ↔ chicken; cauliflower ↔ pumpkin / cabbage. Don't slash carbohydrate intake on HIIT days.
+
+## 6. Wednesday — Walk + 7-Floor Stairs (45 min, night)
+
+### Breakfast
+- **3 eggs**
+- **60 g dry oats** cooked in **250 mL plain milk**
+- **150 g plain yogurt**
+- **150 g guava / papaya**
+
+### Lunch
+- **220 g raw edible tilapia / pangas**
+- **250 g bottle gourd (লাউ) / spinach**
+- **1–1½ cups cooked rice**
+
+### Dinner — After walking
+- **200 g raw boneless chicken**
+- **½–¾ cup cooked dal**
+- **200–250 g cabbage / mixed vegetables**
+- **1 medium roti** or **1 cup cooked rice**
+
+**Easy swap:** Chicken ↔ fish; lauki ↔ cauliflower or beans.
+
+## 7. Thursday — Full-Body Strength (45 min, night)
+
+### Breakfast
+- **2 eggs**
+- **150 g cooked chickpeas**
+- **2 medium atta rotis**
+- **250 mL plain milk**
+- **150 g guava / papaya**
+
+### Lunch
+- **220 g raw boneless chicken**
+- **250 g mixed vegetables** (radish, cabbage, beans)
+- **1–1½ cups cooked rice**
+
+### Dinner — After the workout
+- **60–70 g dry soy chunks**
+- **60 g dry lentils** prepared in vegetable-dal khichuri
+- **200–250 g vegetables**
+- **Small rice portion within khichuri** (e.g. **50–60 g dry rice** before cooking)
+
+**Easy swap:** Soy ↔ edible fish/chicken; vegetables depend on winter-market prices. Rice and dal both count toward the meal's carbohydrates.
+
+## 8. Friday — Full Recovery (No Hard Workout)
+
+### Breakfast
+- **3 eggs**
+- **2 medium atta rotis**
+- **250 mL plain milk**
+- **100 g cooked chickpeas**
+- **150 g ripe papaya**
+
+### Lunch
+- **220 g raw edible rui / tilapia / pangas**, whichever is affordable
+- **250 g leafy greens / cabbage**
+- **1–1½ cups cooked rice**
+
+### Dinner
+- **200 g raw boneless chicken**
+- **¾–1 cup cooked lentil dal**
+- **200–250 g cooked seasonal vegetables**
+- **1 roti** or **1 cup cooked rice**
+
+**Recovery rule:** Eat normal balanced meals even on Friday. Resting does not mean fasting or skipping protein.
+
+---
+
+## 9. 3-Meal Routine — Timing & Simple Rules
+
+| Meal | When | Principle |
+|---|---|---|
+| **Breakfast** | After waking, at a comfortable time | Eggs + grains + milk/legumes + fruit; provide substantial protein |
+| **Lunch** | Midday | Chicken/fish + vegetables + modest rice |
+| **Dinner** | After the night exercise (or usual evening time Friday) | Protein + vegetables + rice/roti; eat a balanced meal, not an extra snack |
+
+- **No compulsory fourth meal or snack.** If hunger or exercise performance is poor, make the **three meals more substantial** rather than automatically adding a fourth eating time.
+- If working out long after lunch, adjust the **timing** of lunch/dinner to fit digestion and comfort. It's okay to eat the evening meal after training.
+- Fruit, bananas, milk, yogurt and chickpeas are **parts of breakfast or the other two meals**, not extra scheduled meals.
+- Protein does **not** require expensive beef, mutton, supplements or protein powder.
+- For fat loss, use a **moderate, sustainable calorie deficit**. Weight of 98 kg **alone cannot establish calorie needs**, healthy target weight or ideal rice portions; height, age and daily activity are still relevant.
+- Sleep adequately. Keep regular food intake; don't try to out-exercise a highly restrictive diet.
+
+## 10. Weekly Shopping List — For This 98 kg Plan
+
+The portions above use **edible raw meat/fish weights**; shops commonly sell bone-in, so adapt the buying weight to the cut and fish.
+
+| Ingredient | Weekly purchase estimate | Notes |
+|---|---:|---|
+| Eggs | **18** | As listed across seven breakfasts |
+| Chicken | **~1.3 kg raw boneless edible**; roughly **2–2.3 kg whole/bone-in** | Whole-to-edible yield is variable |
+| Fish | **~1.1 kg edible raw**; roughly **1.6–2.2 kg whole/bone-in** | Depends on head/bone yield |
+| Dry soy chunks | **~200 g** | Sunday, Monday, Thursday dinners |
+| Dry lentils | **~300–450 g** | Cooked dal/khichuri |
+| Dry chickpeas | **~300–400 g** | Soak/cook for breakfasts and Sunday dinner |
+| Vegetables | **~3.5–4 kg** | Buy fresh twice weekly if convenient |
+| Whole fruit | **~1.1–1.5 kg** | Primarily with breakfast |
+| Plain milk | **~1.75 L** | 250 mL each day |
+| Plain yogurt | **~350 g** | Sunday/Wednesday, adjust as desired |
+| Rice, atta, cooking oil, spices | **Based on measured meal portions** | Use existing pantry staples; no need to repurchase stocked items |
+
+**Shopping note:** This is a **higher-protein basket than the former 60-eggs/month + 4-kg-chicken + 3-kg-fish sample**. The older **৳6,137/month** shopping estimate does **not** reliably fund this revised menu. See the new **98 kg adjusted basket** in the [market/budget document](WINTER-MARKET-PRICES-AND-BUDGET.md).
+
+## 11. November–January Seasonal Substitutions
+
+**November:** Cauliflower, beans, cabbage, radish, green papaya, lauki; guava, papaya, banana.  
+**December:** Cauliflower, cabbage, greens, beans, radish, carrot if prices fall.  
+**January:** Leafy greens, cauliflower, cabbage, radish, winter beans; local কুল/বরই if affordable.
+
+Buy by **season + price**, not by a rigid vegetable name. A cheaper vegetable can replace a more expensive one in the same meal.
+
+## 12. Evidence & Safety
+
+- **Three meals are fine:** A new ISSN (October 2026) position stand reports meal frequency can be flexible for weight loss; distributing protein over **at least three protein-rich meals/eating occasions** may help retain lean mass during weight reduction.
+- **Protein:** The same position stand suggests **1.2–1.6 g/kg/day** for general weight reduction and physical activity; resistance training changes individual needs. Hence **98 × 1.2–1.6 = 118–157 g/day**, with **120–145 g/day** suggested here only as an initial practical aim, not a calculated medical requirement.
+- **Vegetables/fruits:** WHO recommends **at least 400 g/day fruit + vegetables** for people older than 10 and prefers whole fruit to sweet juice.
+- **Gradual change:** Avoid crash diets and extreme energy restriction. If you have kidney disease, diabetes or other conditions requiring diet changes, obtain individual medical advice.
+
+### Sources
+1. [ISSN (2026) — Diets for Body Weight Reduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC13665703/)
+2. [ISSN (2017) — Protein and Exercise](https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/)
+3. [WHO — Healthy Diet](https://www.who.int/news-room/fact-sheets/detail/healthy-diet)
+4. [CDC — Steps for Losing Weight](https://www.cdc.gov/healthy-weight-growth/losing-weight/)
+5. [Winter Market Prices & Budget — Bangladesh Sources](WINTER-MARKET-PRICES-AND-BUDGET.md)
+
+*Updated 8 November 2026. This plan is designed around your stated 98 kg current weight and exactly three meals; height/age have not been supplied.*
